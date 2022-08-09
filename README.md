@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/arthurspk/guiadevbrasil">
-    <img src="./assets/guia.svg" alt="Guia Extenso de Programação" width="160" height="160">
+    <img src="./assets/wallpaper.png" alt="Guia Extenso de Programação">
   </a>
   <h1 align="center">Guia Completo de Programação.</h1>
 </p>
