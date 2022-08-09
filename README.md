@@ -1019,6 +1019,6 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 --------------
 ## 📝 Licença.
 
-<a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/github/license/vncsmnl/GuiaDevBrasil"></a>
+<a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/github/license/vncsmnl/GuiaDoProgramador"></a>
 
 Os nomes e logotipos presentes nesse repositório são de seus respectivos criadores. Este repositório não é de forma alguma afiliado à nenhum criador ou organização.
