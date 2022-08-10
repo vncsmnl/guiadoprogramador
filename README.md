@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/arthurspk/guiadevbrasil">
+  <a href="https://github.com/vncsmnl/GuiaDoProgramador">
     <img src="./assets/wallpaper.png" alt="Guia Extenso de Programação">
   </a>
   <h1 align="center">Guia Completo de Programação.</h1>
@@ -1021,4 +1021,10 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 
 <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/github/license/vncsmnl/GuiaDoProgramador"></a>
 
+Uma licença permissiva curta e simples, com condições que exigem apenas a preservação de direitos autorais e avisos de licença. Obras licenciadas, modificações e obras maiores podem ser distribuídas sob diferentes termos e sem código fonte.
+
 Os nomes e logotipos presentes nesse repositório são de seus respectivos criadores. Este repositório não é de forma alguma afiliado à nenhum criador ou organização.
+
+<p align="center">
+<img src="./assets/guia.svg" alt="Guia Extenso de Programação" width="100" height="100">
+</p>

@@ -1242,3 +1242,7 @@
 
     <hr>
   </details>
+
+<p align="center">
+<img src="./assets/guia.svg" alt="Guia Extenso de Programação" width="100" height="100">
+</p>
