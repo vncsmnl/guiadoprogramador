@@ -1243,6 +1243,8 @@
     <hr>
   </details>
 
+<a href="#top">🔝 Volte para o topo</a>
+
 <p align="center">
 <img src="./assets/guia.svg" alt="Guia Extenso de Programação" width="100" height="100">
 </p>
