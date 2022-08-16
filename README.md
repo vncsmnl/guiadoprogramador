@@ -815,7 +815,6 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ❤️ Felipe Deschamps | Canal delicinha sobre sobre programação e desenvolvimento como dev. | [Link](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) |
 | Felipe Elia | Canal sobre programação para Web com foco em WordPress. | [Link](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ) |
 | Filho da nuvem | Canal sobre desenvolvimento de testes automatizados, GitHub, PHP, Golang e outras linguagens. | [Link](https://www.youtube.com/Filhodanuvem) |
-| Fireship | Vídeos sobre diversos assuntos de tecnologia e programação. | [Link](https://www.youtube.com/c/Fireship) |
 | Flutterando | Canal sobre desenvolvimento de interface com Flutter. | [Link](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) |
 | freeCodeCamp.org | Aprenda a codificar gratuitamente. | [Link](https://youtube.com/c/Freecodecamp) |
 | ❤️ Gabriel Pato | Canal sobre tecnologia e hacking. | [Link](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) |
@@ -828,14 +827,12 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Lama Dev | Tutoriais de desenvolvimento da Web para todos. Aprenda JavaScript, React.js, Node.js e encontre inspiração para HTML, CSS e web design com Lama e torne-se um desenvolvedor web. | [Link](https://www.youtube.com/c/LamaDev) |
 | Loiane Groner | Canal com aulas gratuitas sobre Java, Sencha (Ext JS), JavaScript, Angular e desenvolvimento mobile com Cordova e Ionic. | [Link](https://youtube.com/c/loianegroner) |
 | London App Brewery | Ensinam desenvolvimento Web para iniciantes, como fazer aplicativos iOS, Flutter e Android, bem como ciência de dados. | [Link](https://youtube.com/c/Londonappbrewery) |
-| Lucas Montano | Carreira e empreendedorismo com programação. | [Link](https://www.youtube.com/c/LucasMontano) |
 | Mango | Cursos avançados completos utilizando Clean Architecture, TDD, SOLID principles e design patterns. | [Link](https://youtube.com/c/MangoDeveloper) |
 | Manual do Dev | Canal com vários projetos para iniciantes! | [Link](https://www.youtube.com/c/ManualdoDev) |
 | Michelli Brito | Canal sobre conteúdos de programação, arquitetura de software e carreira em TI. | [Link](https://youtube.com/c/MichelliBrito) |
 | Nick Chapsas | Canal de um engenheiro de software de Londres com tutoriais e dicas de ferramentas Microsoft (ASPNET Core, C#, etc) | [Link](https://www.youtube.com/c/Elfocrash) |
 | O Irmão mais Velho | Aprenda UX/UI, Web e Mobile e desenvolva o seu mindset. | [Link](https://www.youtube.com/channel/UC5cfBZHUQpcMvBJDBaX8-jg/featured) |
 | One Bit Code | Canal com aulas de React e Ruby. | [Link](https://www.youtube.com/c/OneBitCode) |
-| Otavio Lemos | Arquitetura, padrões de projetos e técnicas de desenvolvimento/testes. | [Link](https://www.youtube.com/user/OtavioALLemos) |
 | Pessonizando | Canal fala sobre Programação, Teste de Software, Carreira em Computação e como é viver e trabalhar com TI na EUROPA. | [Link](https://www.youtube.com/c/pessonizando) |
 | Pisani da Arch | É um canal com conteúdos voltados para Arquitetura de Solução, onde o objetivo é ajudar a comunidade de Devs e Archs a projetarem soluções com os melhores padrões do mercado. | [Link](https://www.youtube.com/c/ArcHOfficeTech) |
 | Professor José de Assis | Arduino com foco em robótica educacional, Programação Linguagem C, Java e desenvolvimento WEB, Linux com foco em servidores de rede. | [Link](https://www.youtube.com/c/RoboticapraticaBr/) |
@@ -915,7 +912,6 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Podcast OsProgramadores | Tudo que você sempre quis saber sobre Programação vida de programador, e também como chegar lá. Entrevistas com profissionais reconhecidos Nacional e Internacionalmente. | [Link](https://osprogramadores.com/podcast) |
 | PodProgramar | Focado em programação, notícias e histórias da área. | [Link](https://podprogramar.com.br/) |
 | PodTag | Desenvolvimento de software e tecnologia em geral. | [Link](https://podtag.com.br/) |
-| PrimoTech | Programação, tendencias, carreira, tecnologia e inovação. | [Link](https://open.spotify.com/show/29eSlP6rJWrsX4O1SZ8J0z)
 | QuebraDev | Quebrada + tecnologia. | [Link](https://quebradev.com.br/) |
 | Torne-se um Programador Podcast | Podcast sobre programação e empreendedorismo digital. | [Link](https://open.spotify.com/show/50tgLD0cGqINLLLKNDULRl) |
 | Zup | Blog com informação sobre tecnologia. | [Link](https://www.zup.com.br/blog) |
