@@ -39,10 +39,11 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 - [🎨 Sites para desenvolvedor front-end](#-sites-para-desenvolvedor-front-end)
 - [🎮 Sites para aprender a programar jogando](#-sites-para-aprender-a-programar-jogando)
 - [✨ Templates HTML gratuitos](#-templates-html-gratuitos)
-- [🪅 Sites para aprender ou treinar CSS](#-sites-para-aprender-ou-treinar-css)
+- [🧑‍🎨 Sites para aprender ou treinar CSS](#-sites-para-aprender-ou-treinar-css)
 - [🪡 Geradores de CSS](#-geradores-de-css)
 - [🔎 Sites para buscar vagas remotas](#-sites-para-buscar-vagas-remotas)
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
+- [📇 Cheat Sheets](#-cheat-sheets)
 - [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos)
 - [📝 IDEs e editores de código](#-ides-e-editores-de-código)
 - [🖌 Design Front-end](#-design-front-end)
@@ -189,7 +190,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ThemeWagon Freebies | Temas HTML5 + CSS3 gratuitos. | [Link](https://themewagon.com/theme_tag/free/) |
 | W3 Layouts | Modelos de Bootstrap multiúso e temas do WordPress. | [Link](https://w3layouts.com) |
 
-## 🪅 Sites para aprender ou treinar CSS.
+## 🧑‍🎨 Sites para aprender ou treinar CSS.
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
@@ -269,9 +270,9 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | CSS W3.org | Validar CSS. | [Link](https://jigsaw.w3.org/css-validator/) |
 | DbDiagram | Crie elegantes diagramas de banco de dados e gere script DDL. | [Link](https://dbdiagram.io/home) |
 | Debuggex: Online visual regex tester. JavaScript, Python, and PCRE | Construa e teste expressões regulares. | [Link](https://www.debuggex.com) |
-| Dev Hints | Coleção de CheatSheets. | [Link](https://devhints.io) |
 | DevDocs | DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisáveis. | [Link](https://devdocs.io/) |
 | ❤️ Devhints | Documentação curta, prática e objetiva de cada linguagem de programação. | [Link](https://devhints.io/) |
+| DevTools | Pequenas ferramentas que com certeza vão te ajudar. | [Link](https://smalldev.tools/) |
 | Docsify | Crie docs incríveis de projetos. | [Link](https://docsify.js.org/#/) |
 | EasyForms | API open source que permite criação formulários de contato com HTML puro. | [Link](https://easyforms.vercel.app/) |
 | Editor.md | Editor Markdown online e open source. | [Link](https://pandao.github.io/editor.md/en.html) |
@@ -330,6 +331,19 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Wedsites | Liste suas atividades e acompanhe seu progresso. | [Link](https://wedsites.com/) |
 | WordPress | Criação de blogs. | [Link](https://wordpress.org/) |
 | XML Sitemaps | Criador de sitemaps.xml. | [Link](https://www.xml-sitemaps.com/) |
+
+## 📇 Cheat Sheets.
+
+| Nome         | Descrição     | Site |
+|--------------|-----------|------------|
+| ❤️ Dev Hints | Coleção de CheatSheets. | [Link](https://devhints.io) |
+| Developer Cheat Sheets | Cheat Sheets para desenvolvedores. | [Link](http://www.developer-cheatsheets.com/) |
+| Emmet Documentation | Com Emmet, você pode escrever rapidamente um monte de código, agrupar código com novas tags, percorrer e selecionar partes de código importantes e muito mais! | [Link](https://docs.emmet.io/cheat-sheet/) |
+| Flexbox Cheat Sheet | Resolvendo mistérios da web. | [Link](https://darekkay.com/flexbox-cheatsheet/) |
+| ❤️ Git Cheat Sheet | Use este guia prático da folha de dicas do git para aprimorar seu fluxo de trabalho. | [Link](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) |
+| HTML-CSS-JS CheatSheet | O funcionamento do site é bastante intuitivo, basta destacar um trecho de código e copiá-lo e colá-lo em seu projeto. | [Link](https://html-css-js.com/) |
+| OverAPI | Coletando todas as folhas de dicas. | [Link](https://overapi.com/) |
+| ❤️ Python Cheatsheet | Baseado no livro Automate the Boring Stuff with Python e muitas outras fontes. | [Link](https://www.pythoncheatsheet.org/) |
 
 ## 🗂 Gerenciamento de projetos.
 
@@ -925,8 +939,16 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
+| AnswerThePublic | Descubra o que as pessoas estão perguntando sobre. | [Link](https://answerthepublic.com/) |
+| Best Hashtags | Descubra novas hashtags. | [Link](https://best-hashtags.com/) |
 | BossaBox | Rede de desenvolvedores, designers e gerentes. | [Link](https://bossabox.com/) |
+| Casa dos Dados | Encontre, visualize e identifique empresas através de dados cadastrais. | [Link](https://casadosdados.com.br/) |
 | CodeInterview | Realize entrevistas de emprego com codificação ao vivo. | [Link](https://codeinterview.io/) |
+| Exploding Topics | Descubra tópicos explosivos. | [Link](https://explodingtopics.com/) |
+| Glimpse | Descubra tendências antes que elas sejam tendências. | [Link](https://meetglimpse.com/) |
+| Google Trends | Veja o que o mundo está pesquisando | [Link](https://trends.google.com.br/) |
+| Hafidme  | Conecte-se à milhares de oportunidades de representação. | [Link](https://www.hafidme.com.br/) |
+| Hashtag Generator | Análise avançada, Coleções de Hashtags, embaralhamento de Hashtag GRÁTIS! | [Link](https://www.hashtagstack.com/hashtag-generator) |
 | Impulso | Uma rede gratuita para impulsionar o seu crescimento profissional. | [Link](https://impulso.network/) |
 | Rocket.Chat | Chat corporativo open-source e gratuito para equipes. | [Link](https://rocket.chat/) |
 
