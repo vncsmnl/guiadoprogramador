@@ -5,14 +5,26 @@
   <h1 align="center">Guia Completo de Programação.</h1>
 </p>
 
+[![Awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
+
 <sub> <strong>forked from arthurspk/guiadevbrasil</strong>
+
+[![GitHub followers](https://img.shields.io/github/followers/vncsmnl?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl?tab=followers)
+[![GitHub forks](https://img.shields.io/github/forks/vncsmnl/guiadoprogramador?branch=master&label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl/guiadoprogramador/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/vncsmnl/guiadoprogramador?branch=master&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl/guiadoprogramador/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/vncsmnl/guiadoprogramador?branch=master&label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl/guiadoprogramador/watchers)
 
 ## 📒 Um guia extensivo para alavancar a sua carreira.
 
 Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou se especializar em qualquer área da TI. Se você já é desenvolvedor ou está migrando de outra área, confira o repositório para descobrir ferramentas para o seu dia a dia, possíveis caminhos e tecnologias que iram te ajudar a fazer muitas coisas. **Seja um desenvolvedor atualizado e diferenciado**.
 
 <sub> <strong>Siga as minhas redes sociais para acompanhar mais conteúdos: </strong> <br>
-<a href="https://instagram.com/vncsmnl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://twitter.com/vncsmnl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://br.linkedin.com/in/vncsmnl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.reddit.com/user/vncsmnl"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> <a href="https://steamcommunity.com/id/vncsmnl"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> <a href="https://www.twitch.tv/vncsmnl"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://instagram.com/vncsmnl"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat"></a>
+<a href="https://twitter.com/vncsmnl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat"></a>
+<a href="https://br.linkedin.com/in/vncsmnl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"></a>
+<a href="https://www.reddit.com/user/vncsmnl"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat"></a>
+<a href="https://academyvncsmnl.notion.site/academyvncsmnl/An-lises-e-Desenvolvimento-de-Sistemas-6e03f535ab244a77ab75288c396da09e"><img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat"></a>
+<a href="https://www.hackerrank.com/vncsmnl?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat"></a>
 </sub>
 
 ## 📔 Bíblia da Programação.
@@ -80,6 +92,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
 | ❤️ Awesome | Listas incríveis sobre todos os tipos de tópicos interessantes. | [Link](https://github.com/sindresorhus/awesome) |
+| Awesome Cheatsheets | Cheatsheets impressionantes para linguagens de programação, estruturas e ferramentas de desenvolvimento populares. Eles incluem tudo o que você deve saber em um único arquivo. | [Link](https://github.com/LeCoupa/awesome-cheatsheets) |
 | Awesome Indexed | Ótimo para descobrir e encontrar alternativas. | [Link](https://awesome-indexed.mathew-davies.co.uk/) |
 | Awesome Open Source | Encontre código aberto pesquisando, navegando e combinando 168.693 tópicos em 59 categorias e 5.759.467 projetos. | [Link](https://awesomeopensource.com/) |
 | Awesome Piracy | Uma lista com curadoria sobre 🏴‍☠️. | [Link](https://official-awesome-piracy.vercel.app/) |
@@ -112,6 +125,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
 | 4noobs | Repositório desenvolvido para mostrar os conhecimentos básicos em diversas linguagens e ferramentas para desenvolvedores iniciantes. | [Link](https://github.com/he4rt/4noobs) |
+| ❤️ Alura | Mergulhe em Tecnologia! Você vai estudar, praticar, discutir e se aprofundar em uma plataforma que respira tecnologia. | [Link](https://www.alura.com.br/) |
 | Balta.io | Site para aprender programação e desenvolvimento por meio de cursos. | [Link](https://balta.io) |
 | CodeAcademy | Site com diversos cursos gratuitos de programação (EN). | [Link](https://www.codecademy.com/) |
 | Codementor | Site para praticar e aprender a desenvolver suas skills como desenvolvedor. | [Link](https://www.codementor.io/) |
@@ -178,6 +192,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ❤️ Monkeytype | Teste de digitação minimalista, com muitos modos de teste, um sistema de conta para salvar seu histórico de velocidade de digitação e recursos configuráveis pelo usuário, como temas, um cursor suave e muito mais. | [Link](https://monkeytype.com/) |
 | Schemaverse | O Schemaverse é um jogo de estratégia baseado no espaço implementado inteiramente em um banco de dados PostgreSQL. | [Link](https://schemaverse.com) |
 | Sreeps | Jogo sandbox MMO para programadores. | [Link](https://screeps.com/) |
+| ❤️ Vim Adventures | Aprenda VIM enquanto joga. | [Link](https://vim-adventures.com/) |
 | ZType  | Game pra você aprender a digitar mais rápido. | [Link](https://zty.pe/) |
 
 ## ✨ Templates HTML gratuitos.
@@ -336,12 +351,12 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
+| CSS Reference | Ele apresenta as propriedades mais populares e as explica com exemplos ilustrados e animados. | [Link](https://cssreference.io/) |
 | ❤️ Dev Hints | Coleção de CheatSheets. | [Link](https://devhints.io) |
-| Developer Cheat Sheets | Cheat Sheets para desenvolvedores. | [Link](http://www.developer-cheatsheets.com/) |
 | Emmet Documentation | Com Emmet, você pode escrever rapidamente um monte de código, agrupar código com novas tags, percorrer e selecionar partes de código importantes e muito mais! | [Link](https://docs.emmet.io/cheat-sheet/) |
 | Flexbox Cheat Sheet | Resolvendo mistérios da web. | [Link](https://darekkay.com/flexbox-cheatsheet/) |
-| ❤️ Git Cheat Sheet | Use este guia prático da folha de dicas do git para aprimorar seu fluxo de trabalho. | [Link](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) |
-| HTML-CSS-JS CheatSheet | O funcionamento do site é bastante intuitivo, basta destacar um trecho de código e copiá-lo e colá-lo em seu projeto. | [Link](https://html-css-js.com/) |
+| ❤️ Git Cheat Sheet | Use este guia prático da folha de dicas do git para aprimorar seu fluxo de trabalho. | [Link](https://gitsheet.wtf/) |
+| HTML Reference | Um guia gratuito para HTML. Possui todos os elementos e atributos. | [Link](https://htmlreference.io/) |
 | OverAPI | Coletando todas as folhas de dicas. | [Link](https://overapi.com/) |
 | ❤️ Python Cheatsheet | Baseado no livro Automate the Boring Stuff with Python e muitas outras fontes. | [Link](https://www.pythoncheatsheet.org/) |
 
@@ -407,6 +422,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Bulma CSS | Estrutura CSS gratuita baseada no Flexbox. | [Link](https://bulma.io/) |
 | Canva | Ferramenta de design online. | [Link](https://www.canva.com/) |
 | Chart.js | Biblioteca JavaScript de criação de gráficos. | [Link](https://www.chartjs.org/) |
+| ❤️ ClipDrop | O ecossistema definitivo de aplicativos, plug-ins e recursos para todos os criadores, alimentado por inteligência artificial. | [Link](https://clipdrop.co/) |
 | Colors and Fonts | Apresenta paletas de cores e tipografia. | [Link](https://www.colorsandfonts.com/) |
 | Colors lol | Repositório de paletas de cores. | [Link](https://colors.lol) |
 | Cruip | Recursos de templates. | [Link](https://cruip.com/) |
@@ -420,7 +436,6 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Fancy Border-Radius | Gerador de formas com border-radius no CSS. | [Link](https://9elements.github.io/fancy-border-radius/) |
 | ❤️ Figma | Desenhe projetos online de apps, softwares e websites. | [Link](https://www.figma.com/) |
 | Flatui Color Picker | Paleta de cores interativa de forma harmonizar o front. | [Link](http://www.flatuicolorpicker.com/) |
-| ❤️ Foco Clipping | Remove fundos de imagens automaticamente. | [Link](https://www.fococlipping.com/) |
 | Font Flipper | Ferramenta para testar fontes. | [Link](https://fontflipper.com/) |
 | FontPair | Ferramenta para combinações de fontes. | [Link](https://fontpair.co/) |
 | FontSpark | Gera fontes aleatórias de uma lista de fontes famosas usadas na web. | [Link](https://fontspark.app/) |
@@ -434,7 +449,6 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Interfacer | Recursos para criação de interfaces. | [Link](https://interfacer.xyz/) |
 | Interfaces.pro | Inspiração para interfaces. | [Link](https://interfaces.pro/) |
 | Invision | Software de design para projetos. | [Link](https://www.invisionapp.com/) |
-| ❤️ LetsEnhance | Editor automático de IA para aumentar a resolução da imagem sem perder qualidade. | [Link](https://letsenhance.io/) |
 | Lottie | Animações em after effects via JSON. | [Link](https://lottiefiles.com/) |
 | Luna | Framework CSS brasileiro. | [Link](https://github.com/OfficialMarinho/luna) |
 | Material-UI | Um framework de interface de usuário para React. | [Link](https://material-ui.com/) |
@@ -447,9 +461,9 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Polotno | Alternativa ao Canva. | [Link](https://studio.polotno.com/) |
 | PSD-To-CSS-Shadow | Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop. | [Link](http://psd-to-css-shadows.com/) |
 | Pure.css | Framework CSS responsivo. | [Link](https://purecss.io/) |
-| ❤️ Remover | Remova qualquer coisa indesejada em segundos, de graça. | [Link](https://remover.zmo.ai/) |
 | Sketch | Desenvolvimento de layouts em alta qualidade. | [Link](https://www.sketch.com/) |
 | Squoosh.app | Compressor de imagens e comparador, via navegador. | [Link](https://squoosh.app/) |
+| ❤️ Stable Diffusion Online | Stable Diffusion é um modelo latente de difusão de texto para imagem capaz de gerar imagens fotorrealistas a partir de qualquer entrada de texto, cultiva liberdade autônoma para produzir imagens incríveis, capacita bilhões de pessoas a criar arte impressionante em segundos. | [Link](https://stablediffusionweb.com/) |
 | SweetAlert2 | Biblioteca JavaScript de alertas responsivos e customizáveis. | [Link](https://sweetalert2.github.io/) |
 | Tailwind CSS | Framework de estilo CSS. | [Link](https://tailwindcss.com/) |
 | UI Gradients | UI gradientes para utilizar. | [Link](https://uigradients.com/) |
@@ -534,6 +548,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Frontend Mentor | Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada. | [Link](https://www.frontendmentor.io/) |
 | ❤️ HackerRank | Desafios de Programação Back-end. IDE integrada. | [Link](https://www.hackerrank.com/) |
 | HackTheBox | Site com laboratórios para praticar pentest de forma gratuita e legal. | [Link](https://www.hackthebox.eu/) |
+| JSchallenger | Desafios gratuitos de Javascript. Aprenda Javascript online resolvendo exercícios de codificação. | [Link](https://www.jschallenger.com/) |
 | LeetCode | Desafios de Programação Back-end. IDE integrada. | [Link](https://leetcode.com/) |
 | OsProgramadores | Desafios de Lógica de Programação do grupo Os Programadores. | [Link](https://osprogramadores.com/desafios/) |
 | ProjectEuler | Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada. | [Link](https://projecteuler.net/) |
@@ -548,9 +563,11 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 |--------------|-----------|------------|
 | AlternativeTo | 105.866 aplicativos 855.772 curtidas 832.601 opiniões sobre alternativas. | [Link](https://alternativeto.net/) |
 | BundlePhobia | Site para descobrir o custo de adicionar um npm package no seu pacote. | [Link](https://bundlephobia.com) |
+| ❤️ ChatGPT | O ChatGPT é um protótipo de um chatbot com inteligência artificial desenvolvido pela OpenAI especializado em diálogo. | [Link](https://chat.openai.com/chat) |
 | CloudCraft | Plataforma com foco em criar desenhos de arquiteturas AWS. | [Link](https://www.cloudcraft.co) |
 | Code Triage | Ajude seus projetos de código aberto favoritos e torne-se um desenvolvedor melhor ao fazê-lo. | [Link](https://www.codetriage.com/) |
 | ❤️ DevDocs | O DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável. | [Link](https://devdocs.io/) |
+| Emailnator | Gerador de emails temporários. | [Link](https://www.emailnator.com/) |
 | FileCR | Visa facilitar o acesso aos arquivos dos últimos lançamentos, em constante evolução e tentando competir com o tempo, disponibilizando uma interface amigável que permite a busca de arquivos de forma mais fácil e organizada. | [Link](https://filecr.com/) |
 | Font Flipper | Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. | [Link](https://fontflipper.com) |
 | Free For Dev | Desenvolvedores e autores de código aberto agora têm uma enorme quantidade de serviços que oferecem níveis gratuitos, mas pode ser difícil encontrar todos eles para tomar decisões informadas. | [Link](https://free-for.dev/#/) |
@@ -566,11 +583,11 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | OmniCalculator | Sua vida em 2840 calculadoras gratuitas | [Link](https://www.omnicalculator.com/) |
 | ReadMe | Editor simples permite que você adicione e personalize rapidamente todas as seções necessárias para o leia-me do seu projeto. | [Link](https://readme.so/) |
 | Rive | Ferramenta colaborativa de animação para apps, jogos e sites. | [Link](https://rive.app) |
-| ❤️ SnapCode | Transforme seu código em belas imagens. Escolha entre uma variedade de cores de sintaxe, oculte ou mostre o plano de fundo e alterne entre uma janela escura e clara. | [Link](https://ray.so/) |
+| SnapCode | Transforme seu código em belas imagens. Escolha entre uma variedade de cores de sintaxe, oculte ou mostre o plano de fundo e alterne entre uma janela escura e clara. | [Link](https://ray.so/) |
 | Unminify | Ferramenta desofuscação de códigos. | [Link](https://unminify.com/) |
 | Up for Grabs | Esta é uma lista de projetos que selecionaram tarefas especificamente para novos colaboradores. | [Link](http://up-for-grabs.net/) |
 | Web Developer Roadmap | Trilha de caminhos para seguir para se tornar um desenvolvedor WEB. | [Link](https://github.com/kamranahmedse/developer-roadmap) |
-| Winstall | Instale aplicativos do Windows em massa rapidamente com o Gerenciador de Pacotes do Windows. | [Link](https://winstall.app/) |
+| ❤️ Winstall | Instale aplicativos do Windows em massa rapidamente com o Gerenciador de Pacotes do Windows. | [Link](https://winstall.app/) |
 
 ## 🐧 Distros linux para programadores.
 
@@ -794,19 +811,19 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
 | Academind | Cursos e tutoriais que ensinam tudo relacionado ao desenvolvimento web. | [Link](https://youtube.com/c/Academind) |
-| Alura | Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia. | [Link](https://www.youtube.com/user/aluracursosonline) |
+| ❤️ Alura | Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia. | [Link](https://www.youtube.com/user/aluracursosonline) |
 | Android Developers | Canal oficial da comunidade de desenvolvedores do Android. | [Link](https://www.youtube.com/user/androiddevelopers) |
 | Attekita Dev | Engenheira de software entusiasta em UX, com mais de mais de 20 aplicativos publicados na App Store. | [Link](https://www.youtube.com/c/AttekitaDev/) |
 | Balta.io | Canal explicando uma ferramenta completa para auxiliar você em seu caminho para se tornar um desenvolvedor de respeito, - om mais de 80 cursos direcionados. | [Link](https://youtube.com/c/baltaio) |
 | Beer and Code | Faça seu futuro com as tecnologias mais utilizadas nas Startups de sucesso. | [Link](https://www.youtube.com/c/BeerandCode/) |
-| ❤️ Bonieky Lacerda | Cursos de programação. | [Link](https://www.youtube.com/c/BoniekyLacerdaLeal) |
+| Bonieky Lacerda | Cursos de programação. | [Link](https://www.youtube.com/c/BoniekyLacerdaLeal) |
 | Canal dotNET | Canal sobre .NET C# | [Link](https://youtube.com/c/CanalDotNET) |
 | CFBCursos | Canal de cursos/aulas de informática que disponibiliza conteúdo de qualidade e gratuito. | [Link](https://www.youtube.com/c/cfbcursos) |
 | Cod3r Cursos | Canal com aulas e cursos gratuitos sobre diversas tecnlogias. | [Link](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) |
 | CodAffection | Este canal tem como objetivo ensinar e inspirar desenvolvedores a criar aplicativos. | [Link](https://youtube.com/c/CodAffection) |
 | Codedamn | Canal sobre programação e tecnologia no geral. | [Link](https://youtube.com/c/codedamn) |
 | CodeShow | Canal sobre Python e Rust. | [Link](https://www.youtube.com/CodeShowBR) |
-| CódigoFonteTV | Leon e Nilce da programação. | [Link](https://www.youtube.com/user/codigofontetv) |
+| ❤️ CódigoFonteTV | Leon e Nilce da programação. | [Link](https://www.youtube.com/user/codigofontetv) |
 | CodigoPraTodos | Canal com lives de resolução de exercícios do CS50 e mais dicas de programação. | [Link](https://www.youtube.com/channel/UClFE1N_sMek7cyvwsAK_XJQ) |
 | Coding Snow | Coding Snow é um canal para design e desenvolvimento criativo da Web, designs de front-end, designs de interface do usuário, Web design responsivo e designs de back-end usando HTML, CSS, Javascript / JQuery, PHP, MYSQL. | [Link](https://www.youtube.com/channel/UCNDmzGYwwT3rdY3xQuW8QOA) |
 | CollabCode | Lives insanas sobre JS, front-end, etc. | [Link](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) |
@@ -924,6 +941,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | IT Visionaries (em inglês) | Tecnologias quentes e inovação. | [Link](https://mission.org/itvisionaries/) |
 | Lambda3 | Desenvolvimento de software e tecnologia em geral. | [Link](https://www.lambda3.com.br/tag/podcast/) |
 | LinuxTips | Linux, DevOps, Docker e T.I.| [Link](https://www.linuxtips.io/podcast) |
+| Medium | O Medium é uma plataforma aberta onde os leitores encontram um pensamento dinâmico e onde especialistas e vozes desconhecidas podem compartilhar sua escrita sobre qualquer assunto. | [Link](https://medium.com/) 
 | ❤️ NerdCast | Tecnologia, ciência e universo POP. | [Link](https://jovemnerd.com.br/nerdcast/) |
 | Pizza de dados | Ciência de dados e conselhos de carreira. | [Link](https://pizzadedados.com/) |
 | Playcode | Site com algumas dicas para programação. | [Link](https://playcode.com.br/) |
@@ -933,20 +951,21 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | PrimoTech | Programação, tendencias, carreira, tecnologia e inovação. | [Link](https://open.spotify.com/show/29eSlP6rJWrsX4O1SZ8J0z)
 | QuebraDev | Quebrada + tecnologia. | [Link](https://quebradev.com.br/) |
 | Torne-se um Programador Podcast | Podcast sobre programação e empreendedorismo digital. | [Link](https://open.spotify.com/show/50tgLD0cGqINLLLKNDULRl) |
+| ❤️ XDA | Fundada em 2002, a XDA é a maior comunidade mundial de smartphones e eletrônicos.| [Link](https://www.xda-developers.com/) |
 | Zup | Blog com informação sobre tecnologia. | [Link](https://www.zup.com.br/blog) |
 
 ## 💼 Business.
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
-| AnswerThePublic | Descubra o que as pessoas estão perguntando sobre. | [Link](https://answerthepublic.com/) |
+| ❤️ AnswerThePublic | Descubra o que as pessoas estão perguntando sobre. | [Link](https://answerthepublic.com/) |
 | Best Hashtags | Descubra novas hashtags. | [Link](https://best-hashtags.com/) |
 | BossaBox | Rede de desenvolvedores, designers e gerentes. | [Link](https://bossabox.com/) |
 | Casa dos Dados | Encontre, visualize e identifique empresas através de dados cadastrais. | [Link](https://casadosdados.com.br/) |
 | CodeInterview | Realize entrevistas de emprego com codificação ao vivo. | [Link](https://codeinterview.io/) |
 | Exploding Topics | Descubra tópicos explosivos. | [Link](https://explodingtopics.com/) |
 | Glimpse | Descubra tendências antes que elas sejam tendências. | [Link](https://meetglimpse.com/) |
-| Google Trends | Veja o que o mundo está pesquisando | [Link](https://trends.google.com.br/) |
+| ❤️ Google Trends | Veja o que o mundo está pesquisando | [Link](https://trends.google.com.br/) |
 | Hafidme  | Conecte-se à milhares de oportunidades de representação. | [Link](https://www.hafidme.com.br/) |
 | Hashtag Generator | Análise avançada, Coleções de Hashtags, embaralhamento de Hashtag GRÁTIS! | [Link](https://www.hashtagstack.com/hashtag-generator) |
 | Impulso | Uma rede gratuita para impulsionar o seu crescimento profissional. | [Link](https://impulso.network/) |
@@ -956,18 +975,24 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
-| ❤️ Blackbox  | BLACKBOX é a maneira mais rápida de copiar texto de vídeos, imagens, PDFs, qualquer coisa... sempre! | [Link](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) |
+| Bitwarden | Um gerenciador de senhas seguro e gratuito para todos os seus dispositivos. | [Link](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) |
+| Blackbox  | BLACKBOX é a maneira mais rápida de copiar texto de vídeos, imagens, PDFs, qualquer coisa... sempre! | [Link](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) |
+| ❤️ Buster | Economize tempo pedindo ao Buster para resolver captchas para você. | [Link](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) |
 | Copyfish 🐟 | Copie, cole e traduza texto de qualquer imagem, vídeo ou PDF. | [Link](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj) |
-| CSS Viewer | Um visualizador de propriedades CSS simples. | [Link](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt-BR) |
+| CSS Peeper | Um visualizador de propriedades CSS simples. | [Link](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) |
 | ❤️ daily.dev | Receba um feed das notícias mais quentes do desenvolvedor personalizado para você. | [Link](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) |
 | Dark Reader | Tema escuro para todos os sites. Mantenha os seus olhos relaxados usando o tema escuro em sua navegação diária. | [Link](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=pt-BR) |
-| ❤️ FasterWeb | FasterWeb funciona melhor em páginas que estão nos mesmos sites. Páginas para sites externos ainda são mais rápidas, mas geralmente não o suficiente para serem notadas. | [Link](https://chrome.google.com/webstore/detail/fasterweb/nmgpnfccjfjhdenioncabecepjcmdnjg) |
+| FastForward | Não perca tempo com conformidade. | [Link](https://fastforward.team/) |
+| FasterWeb | FasterWeb funciona melhor em páginas que estão nos mesmos sites. Páginas para sites externos ainda são mais rápidas, mas geralmente não o suficiente para serem notadas. | [Link](https://chrome.google.com/webstore/detail/fasterweb/nmgpnfccjfjhdenioncabecepjcmdnjg) |
 | File Icons for GitHub and GitLab | Uma ferramenta de navegador simples altera o ícone do arquivo no GitHub, GitLab, gitea e gogs | [Link](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe) |
 | Fonts Ninja | Acelere seu fluxo de trabalho de design! Identifique fontes de qualquer site, marque-as, experimente e compre-as. | [Link](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) |
 | ❤️ GitHub Web IDE | Esta extensão adiciona a qualquer repositório GitHub um novo menu suspenso que oferece links para vários serviços online que permitem visualizar o código-fonte do repositório em uma interface semelhante a IDE. | [Link](https://chrome.google.com/webstore/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) |
 | GoFullPage | Capture uma captura de tela da sua página atual de forma completa e confiável, sem solicitar permissões extras! | [Link](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) |
+| JSON Viewer | O marcador JSON/JSONP mais bonito e personalizável que seus olhos já viram. | [Link](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) |
 | Octotree | A maneira mais fácil de identificar fontes em páginas da web. | [Link](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) |
 | React Developer Tools | React Developer Tools é uma extensão do Chrome DevTools para a biblioteca React JavaScript de código aberto. Ele permite que você inspecione as hierarquias de componentes do React nas Ferramentas do desenvolvedor do Chrome. | [Link](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) |
+| Responsive Viewer | Mostrar várias telas uma vez, testador de design responsivo. | [Link](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) |
+| Scribe  | Gere automaticamente guias passo a passo, apenas clicando em gravar. Economize mais de 20 horas/mês para sua equipe em comparação com tutoriais em vídeo e texto. | [Link](https://chrome.google.com/webstore/detail/scribe-%E2%80%94-documentation-so/okfkdaglfjjjfefdcppliegebpoegaii) |
 | Tactiq | Salve legendas e transcrições do Google Meet e Zoom. | [Link](https://chrome.google.com/webstore/detail/tactiq-transcribe-google/fggkaccpbmombhnjkjokndojfgagejfb) |
 | uBlock Origin | Um complemento de bloqueador eficiente para vários navegadores. Rápido, potente e enxuto. | [Link](https://github.com/gorhill/uBlock) |
 | ❤️ Violentmonkey | Fornece suporte a scripts de usuários para navegadores. | [Link](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) |
@@ -983,20 +1008,23 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
-| Auto Rename Tag | Renomear Tags automaticamente | [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) |
-| Bookmarks | Marque linhas e pule para elas | [Link](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) |
+| Auto Rename Tag | Renomear Tags automaticamente. | [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) |
+| Bookmarks | Marque linhas e pule para elas. | [Link](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) |
+| Code Runner | Executar trecho de código ou arquivo de código para vários idiomas. | [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) |
 | ❤️ Code Spell Checker | Verificador ortográfico para código-fonte | [Link](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) |
 | Colorize | Uma extensão vscode para ajudar a visualizar cores CSS em arquivos. | [Link](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) |
-| Dracula Refined | Mais um fork do tema oficial do Drácula, porém, melhor (na minha opinião) | [Link](https://marketplace.visualstudio.com/items?itemName=mathcale.theme-dracula-refined) |
-| Evondev - Indent Rainbow Palettes | Gera uma paleta de arco-íris para o recuo | [Link](https://marketplace.visualstudio.com/items?itemName=evondev.indent-rainbow-palettes) |
-| ❤️ GitLens | Sobrecarregue o Git dentro do VS Code — Visualize a autoria do código rapidamente por meio de anotações de culpa do Git e CodeLens, navegue e explore repositórios Git, obtenha insights valiosos por meio de visualizações avançadas e comandos de comparação poderosos e muito mais | [Link](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
-| indent-rainbow | Facilita a leitura do recuo | [Link](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) |
+| Console Ninja | Uma extensão que exibe a saída do console.log e os erros de tempo de execução diretamente em seu editor a partir do navegador ou aplicativo node em execução. | [Link](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) |
+| Dracula Refined | Mais um fork do tema oficial do Drácula, porém, melhor (na minha opinião). | [Link](https://marketplace.visualstudio.com/items?itemName=mathcale.theme-dracula-refined) |
+| Evondev - Indent Rainbow Palettes | Gera uma paleta de arco-íris para o recuo. | [Link](https://marketplace.visualstudio.com/items?itemName=evondev.indent-rainbow-palettes) |
+| ❤️ GitLens | Sobrecarregue o Git dentro do VS Code — Visualize a autoria do código rapidamente por meio de anotações de culpa do Git e CodeLens, navegue e explore repositórios Git, obtenha insights valiosos por meio de visualizações avançadas e comandos de comparação poderosos e muito mais. | [Link](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
+| indent-rainbow | Facilita a leitura do recuo. | [Link](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) |
 | Live Server | Inicie um servidor de desenvolvimento local com recurso de recarga ao vivo para páginas estáticas e dinâmicas. | [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
-| Markdown All in One | Tudo o que você precisa para escrever Markdown (atalhos de teclado, índice, visualização automática e muito mais) | [Link](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) |
+| Markdown All in One | Tudo o que você precisa para escrever Markdown (atalhos de teclado, índice, visualização automática e muito mais). | [Link](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) |
 | Material Icon Theme | Ícones de design de material para código do Visual Studio. | [Link](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) |
+| ❤️ Mintlify | Escrever documentação é uma merda. Deixe Mintlify cuidar disso. Basta destacar o código e ver a mágica. | [Link](https://marketplace.visualstudio.com/items?itemName=mintlify.document) |
 | Paste JSON as Code | Copie JSON, cole como Go, TypeScript, C#, C++ e muito mais. | [Link](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) |
-| Path Intellisense | Plugin do Visual Studio Code que completa automaticamente os nomes dos arquivos | [Link](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) |
-| Prettier - Code formatter | Formatador de código | [Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
+| Path Intellisense | Plugin do Visual Studio Code que completa automaticamente os nomes dos arquivos. | [Link](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) |
+| Prettier - Code formatter | Formatador de código. | [Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
 | quokkajs | O Quokka.js executa JavaScript e TypeScript com feedback instantâneo. Os valores de tempo de execução são atualizados e exibidos em seu editor ao lado de seu código, conforme você digita. | [Link](https://quokkajs.com/) |
 | Remote - Containers | Abra qualquer pasta ou repositório dentro de um contêiner do Docker e aproveite o conjunto completo de recursos do Visual Studio Code. | [Link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) |
 | ❤️ Remote - WSL | Abra qualquer pasta no Windows Subsystem for Linux (WSL) e aproveite o conjunto completo de recursos do Visual Studio Code. | [Link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) |
@@ -1009,16 +1037,22 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ❤️ Absolute Enable Right Click & Copy | Força o Clique com o Botão Direito | [Link](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) |
 | Auto Close YouTube Ads | Feche e/ou silencie os anúncios do YouTube automaticamente! | [Link](https://greasyfork.org/en/scripts/9165-auto-close-youtube-ads) |
 | Brainly++ | Remove a limitação de ver respostas no Brainly. | [Link](https://greasyfork.org/pt-BR/scripts/430355-brainly) |
-| Crunchyroll iFrame Player | Ver todos os vídeos do site crunchyroll gratuitamente. | [Link](https://greasyfork.org/pt-BR/scripts/411391-crunchyroll-iframe-player) |
+| ❤️ ChatGPT Code Completer | ChatGPT limita a quantidade de saída de código. Portanto, este script adiciona um botão continuar na página do ChatGPT para continuar obtendo o fluxo de código de saída. Certifique-se de que uma resposta anterior com um bloco de código esteja presente para fazê-la funcionar. | [Link](https://greasyfork.org/en/scripts/456426-chatgpt-code-completer) |
+| ChatGPT Search | Respostas do ChatGPT exibidas na barra lateral após a pesquisa (Google, Bing, Baidu, DuckDuckGo e DeepL). | [Link](https://greasyfork.org/en/scripts/456077-chatgpt-search) |
+| Endless Google | Carregue automaticamente mais resultados de pesquisa no final do documento. | [Link](https://openuserjs.org/scripts/tumpio/Endless_Google) |
+| ❤️ githubForkz | Adiciona um botão para encontrar forks ativos e úteis no Github. | [Link](https://greasyfork.org/en/scripts/438580-githubforkz) |
+| Login reminder popup remover | Remove os irritantes pop-ups e banners de login das versões para celular e desktop do Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest, Tumblr, Twitch e das versões para celular do Youtube e TikTok. | [Link](https://greasyfork.org/pt-BR/scripts/395497-login-reminder-popup-remover) |
 | Reader Mode | Ver "modo leitor", versão arquivada ou sem paywall de uma página. | [Link](https://greasyfork.org/en/scripts/431192-view-current-page-in-reader-mode-archived-or-paywall-free-with-a-keyboard-shortcut) |
 | ❤️ Sci-hub button | Adicione o botão sci-hub na página do artigo. Adicione o botão sci-hub após o link do artigo. Suporte ao Google Scholar, o Bing Academic e o Baidu Xueshu. Pule o artigo em inglês da CNKI para o artigo em chinês. | [Link](https://greasyfork.org/en/scripts/370246-sci-hub-button) |
 | Select text inside a link like Opera | Ao instalar este script, você pode selecionar o texto dentro de um link sem arrastá-lo se o cursor for movido horizontalmente. | [Link](https://github.com/eight04/select-text-inside-a-link-like-opera#readme) |
+| YouTube Auto-Liker | Gosta automaticamente de vídeos de canais nos quais você está inscrito. | [Link](https://greasyfork.org/en/scripts/33865-youtube-auto-liker) |
 
 ## 📚 Recomendação de livros.
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
 | 14 Hábitos de Desenvolvedores Altamente Produtivos | Livro por Zeno Rocha. | [Link](https://g.co/kgs/1fGbnx) |
+| Anna’s Archive | 🔍 Motor de busca de shadow libraries (bibliotecas-sombra): livros, artigos, quadrinhos, revistas. ⭐️ Z-Library, Library Genesis, Sci-Hub. ⚙️ Totalmente resiliente por meio de código-fonte aberto e dados de livre acesso. ❤️ Divulgue: aqui todos são bem-vindos! | [Link](https://pt.annas-archive.org/) |
 | ❤️ Casa do Código | Casa do Código é uma editora de livros de TI, com o selo da didática do grupo Alura. Nossos títulos englobam o universo da programação, Front-end, Mobile, Infraestrutura, Business, Design e UX. | [Link](https://www.casadocodigo.com.br/) | 
 | Clean Archtecture - Arquitertura Limpa | Livro por Robert Cecil Martin. | [Link](https://g.co/kgs/62wx9t) |
 | Clean Code - Código Limpo | Livro por Robert Cecil Martin. | [Link](https://g.co/kgs/62wx9t) |
@@ -1029,7 +1063,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | O programador pragmático | Livro por Andy Hunt e Dave Thomas. | [Link](https://g.co/kgs/5nbqB3) |
 | Refactoring - Refatoração | Livro por Kent Beck e Martin Fowler. | [Link](https://g.co/kgs/Hf2eY3) |
 | The Road to learn React (Português) | Livro por Robin Wieruch e Claudio Romero | [Link](https://leanpub.com/the-road-to-learn-react-portuguese) |
-| ❤️ Z-Library | Parte do projeto Z-Library. A maior biblioteca eletrónica do mundo.| [Link](https://pt.z-lib.org/) |
+| ❤️ Z-Library | Parte do projeto Z-Library. A maior biblioteca eletrónica do mundo.| [Link](http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/) |
 
 ## 📱 Apps para praticar programação.
 
@@ -1046,7 +1080,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 --------------
 ## 📝 Licença.
 
-<a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/github/license/vncsmnl/GuiaDoProgramador"></a>
+[![Licença](https://img.shields.io/github/license/mashape/apistatus?branch=master&label=License&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl/guiadoprogramador/blob/main/LICENSE)
 
 Uma licença permissiva curta e simples, com condições que exigem apenas a preservação de direitos autorais e avisos de licença. Obras licenciadas, modificações e obras maiores podem ser distribuídas sob diferentes termos e sem código fonte.
 
@@ -1054,6 +1088,6 @@ Os nomes e logotipos presentes nesse repositório são de seus respectivos criad
 
 <a href="#top">🔝 Volte para o topo</a>
 
-<p align="center">
-<img src="./assets/guia.svg" alt="Guia Extenso de Programação" width="100" height="100">
-</p>
+<div align="right">
+<img src="./assets/vncsmnl.gif" alt="signature" width="200">
+</div>
