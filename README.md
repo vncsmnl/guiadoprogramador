@@ -16,7 +16,7 @@
 
 ## 📒 Um guia extensivo para alavancar a sua carreira.
 
-Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou se especializar em qualquer área da TI. Se você já é desenvolvedor ou está migrando de outra área, confira o repositório para descobrir ferramentas para o seu dia a dia, possíveis caminhos e tecnologias que iram te ajudar a fazer muitas coisas. **Seja um desenvolvedor atualizado e diferenciado**.
+Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou se especializar em qualquer área da TI. Se você já é desenvolvedor ou está migrando de outra área, confira o repositório para descobrir ferramentas para o seu dia a dia, possíveis caminhos e tecnologias que iram te ajudar a fazer muitas coisas. **Seja um dev atualizado e reconhecido**.
 
 <sub> <strong>Siga as minhas redes sociais para acompanhar mais conteúdos: </strong> <br>
 <a href="https://instagram.com/vncsmnl"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat"></a>
@@ -27,13 +27,13 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 <a href="https://www.hackerrank.com/vncsmnl?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat"></a>
 </sub>
 
-## 📔 Bíblia da Programação.
+## 📔 Compêndio sobre Programação.
 
-> O objetivo deste guia é fornecer-lhe uma melhor compreensão das muitas estruturas e soluções disponíveis, você será capaz de escolher a ferramenta que melhor se adapte às suas necessidades, sem encorajá-lo a seguir as "*tendências*" e "*hipes*" atuais no processo.
+> O objetivo deste guia é fornecer-lhe uma melhor compreensão das muitas estruturas e soluções disponíveis na área, assim, você será capaz de escolher a ferramenta que melhor se adapte às suas necessidades, sem encorajá-lo a seguir as "*tendências*" e "*hipes*" atuais no processo.
 
 ## 📢 Para quem está começando agora.
 
-> **Não se deixe intimidar pela quantidade de informações neste guia. Acredito que quem está começando pode usá-lo como suporte para seus estudos, ao invés de estabelecer uma meta para si.** À medida que você adquire mais conhecimento, este guia se tornará mais fácil de entender e aplicar. Sempre que você tiver alguma dúvida ou quiser saber mais sobre um estudo, por favor nos avise.
+> **Não se deixe intimidar pela quantidade de informações desta compilação. Acredito que quem está começando pode usá-lo como suporte para seus estudos, ao invés de estabelecer uma meta para si.** À medida que você adquire mais conhecimento, este conteúdo se tornará mais fácil de entender e aplicar. Sempre que você tiver alguma dúvida ou quiser saber mais sobre um estudo, por favor avise.
 
 ## 🦾 Seja um colaborador:
 
