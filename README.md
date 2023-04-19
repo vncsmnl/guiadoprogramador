@@ -25,6 +25,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 <a href="https://www.reddit.com/user/vncsmnl"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat"></a>
 <a href="https://academyvncsmnl.notion.site/academyvncsmnl/An-lises-e-Desenvolvimento-de-Sistemas-6e03f535ab244a77ab75288c396da09e"><img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat"></a>
 <a href="https://www.hackerrank.com/vncsmnl?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat"></a>
+<a href="https://exercism.org/profiles/vncsmnl"><img src="https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat"></a>
 </sub>
 
 ## 📔 Compêndio sobre Programação.
@@ -975,6 +976,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
+| AIPRM for ChatGPT | O AIPRM adiciona uma lista de modelos de prompt selecionados para SEO, SaaS e muito mais para o ChatGPT.  Tente hoje. | [Link](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) |
 | Bitwarden | Um gerenciador de senhas seguro e gratuito para todos os seus dispositivos. | [Link](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) |
 | Blackbox  | BLACKBOX é a maneira mais rápida de copiar texto de vídeos, imagens, PDFs, qualquer coisa... sempre! | [Link](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) |
 | ❤️ Buster | Economize tempo pedindo ao Buster para resolver captchas para você. | [Link](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) |
@@ -982,12 +984,14 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | CSS Peeper | Um visualizador de propriedades CSS simples. | [Link](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) |
 | ❤️ daily.dev | Receba um feed das notícias mais quentes do desenvolvedor personalizado para você. | [Link](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) |
 | Dark Reader | Tema escuro para todos os sites. Mantenha os seus olhos relaxados usando o tema escuro em sua navegação diária. | [Link](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=pt-BR) |
+| ❤️ Enhanced ChatGPT | A extensão do ChatGPT aprimorada adiciona novos recursos ao ChatGPT, incluindo exportação de bate -papo e modelos de prompt.  Um must-have para usuários de chatgpt. | [Link](https://chrome.google.com/webstore/detail/enhanced-chatgpt/mcbhhiafbiafmggccdcpgfldcaeipopg) |
 | FastForward | Não perca tempo com conformidade. | [Link](https://fastforward.team/) |
 | FasterWeb | FasterWeb funciona melhor em páginas que estão nos mesmos sites. Páginas para sites externos ainda são mais rápidas, mas geralmente não o suficiente para serem notadas. | [Link](https://chrome.google.com/webstore/detail/fasterweb/nmgpnfccjfjhdenioncabecepjcmdnjg) |
 | File Icons for GitHub and GitLab | Uma ferramenta de navegador simples altera o ícone do arquivo no GitHub, GitLab, gitea e gogs | [Link](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe) |
 | Fonts Ninja | Acelere seu fluxo de trabalho de design! Identifique fontes de qualquer site, marque-as, experimente e compre-as. | [Link](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) |
 | ❤️ GitHub Web IDE | Esta extensão adiciona a qualquer repositório GitHub um novo menu suspenso que oferece links para vários serviços online que permitem visualizar o código-fonte do repositório em uma interface semelhante a IDE. | [Link](https://chrome.google.com/webstore/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) |
 | GoFullPage | Capture uma captura de tela da sua página atual de forma completa e confiável, sem solicitar permissões extras! | [Link](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) |
+| Improve YouTube! | Torne o YouTube organizado e inteligente! Pular Anúncio, colorir YouTube, volume, velocidade, canal, ferramenta, estilo, HD | [Link](https://chrome.google.com/webstore/detail/improve-youtube-%F0%9F%8E%A7-for-yo/bnomihfieiccainjcjblhegjgglakjdd) |
 | JSON Viewer | O marcador JSON/JSONP mais bonito e personalizável que seus olhos já viram. | [Link](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) |
 | Octotree | A maneira mais fácil de identificar fontes em páginas da web. | [Link](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) |
 | React Developer Tools | React Developer Tools é uma extensão do Chrome DevTools para a biblioteca React JavaScript de código aberto. Ele permite que você inspecione as hierarquias de componentes do React nas Ferramentas do desenvolvedor do Chrome. | [Link](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) |
@@ -998,7 +1002,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ❤️ Violentmonkey | Fornece suporte a scripts de usuários para navegadores. | [Link](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) |
 | VisBug | É uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. | [Link](https://github.com/GoogleChromeLabs/ProjectVisBug) |
 | Vue Devtools | Extensão do Browser DevTools para depuração de aplicativos Vue.js. | [Link](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR) |
-| Wappalyzer  | Wappalyzer é um utilitário multiplataforma que descobre as tecnologias usadas em sites. Ele detecta sistemas de gerenciamento de conteúdo, plataformas de comércio eletrônico, estruturas da Web, software de servidor, ferramentas de análise e muito mais. | [Link](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) |
+| ❤️ Wappalyzer  | Wappalyzer é um utilitário multiplataforma que descobre as tecnologias usadas em sites. Ele detecta sistemas de gerenciamento de conteúdo, plataformas de comércio eletrônico, estruturas da Web, software de servidor, ferramentas de análise e muito mais. | [Link](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) |
 | Web Developer | Adiciona um botão de barra de ferramentas com várias ferramentas de desenvolvedor web. | [Link](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) |
 | WhatFont? | A maneira mais fácil de identificar fontes em páginas da web. | [Link](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) |
 | Window Resizer | Redimensione a janela do navegador para emular várias resoluções de tela. | [Link](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR) |
@@ -1008,13 +1012,17 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
+| ASL | Esta extensão é uma versão convertida do pacote de realce de sintaxe para o editor Atom language-asl. | [Link](https://marketplace.visualstudio.com/items?itemName=Thog.vscode-asl) |
+| Auto Close Tag | Adicione automaticamente a tag HTML/XML, o mesmo que o Visual Studio IDE ou o Sublime Text. | [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) |
 | Auto Rename Tag | Renomear Tags automaticamente. | [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) |
 | Bookmarks | Marque linhas e pule para elas. | [Link](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) |
 | Code Runner | Executar trecho de código ou arquivo de código para vários idiomas. | [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) |
 | ❤️ Code Spell Checker | Verificador ortográfico para código-fonte | [Link](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) |
 | Colorize | Uma extensão vscode para ajudar a visualizar cores CSS em arquivos. | [Link](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) |
 | Console Ninja | Uma extensão que exibe a saída do console.log e os erros de tempo de execução diretamente em seu editor a partir do navegador ou aplicativo node em execução. | [Link](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) |
+| Docker | A extensão do Docker facilita a criação, o gerenciamento e a implantação de aplicativos de contêiner do Código do Visual Studio. Ele também fornece depuração de um clique de Node.js, Python e .Net dentro de um contêiner. | [Link](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) |
 | Dracula Refined | Mais um fork do tema oficial do Drácula, porém, melhor (na minha opinião). | [Link](https://marketplace.visualstudio.com/items?itemName=mathcale.theme-dracula-refined) |
+| Error Lens | ErrorLens Turbo-Charges Recursos de diagnóstico da linguagem, fazendo com que os diagnósticos se destacem com mais destaque, destacando toda a linha onde quer que um diagnóstico seja gerado pelo idioma e também imprime a mensagem em linha. | [Link](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) |
 | Evondev - Indent Rainbow Palettes | Gera uma paleta de arco-íris para o recuo. | [Link](https://marketplace.visualstudio.com/items?itemName=evondev.indent-rainbow-palettes) |
 | ❤️ GitLens | Sobrecarregue o Git dentro do VS Code — Visualize a autoria do código rapidamente por meio de anotações de culpa do Git e CodeLens, navegue e explore repositórios Git, obtenha insights valiosos por meio de visualizações avançadas e comandos de comparação poderosos e muito mais. | [Link](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
 | indent-rainbow | Facilita a leitura do recuo. | [Link](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) |
@@ -1028,23 +1036,31 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | quokkajs | O Quokka.js executa JavaScript e TypeScript com feedback instantâneo. Os valores de tempo de execução são atualizados e exibidos em seu editor ao lado de seu código, conforme você digita. | [Link](https://quokkajs.com/) |
 | Remote - Containers | Abra qualquer pasta ou repositório dentro de um contêiner do Docker e aproveite o conjunto completo de recursos do Visual Studio Code. | [Link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) |
 | ❤️ Remote - WSL | Abra qualquer pasta no Windows Subsystem for Linux (WSL) e aproveite o conjunto completo de recursos do Visual Studio Code. | [Link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) |
+| Svg Preview | Svg Preview for VSCode | [Link](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) |
 | ThunderClient | É um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. | [Link](https://www.thunderclient.io) |
+| ❤️ WakaTime | O Wakatime é um plugin de código aberto vs para métricas, insights e rastreamento de tempo gerado automaticamente a partir da sua atividade de programação. | [Link](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) |
+| WSL | A extensão WSL permite usar o código VS no Windows para criar aplicativos Linux executados no subsistema do Windows para Linux (WSL). Você obtém toda a produtividade do Windows enquanto se desenvolve com ferramentas, horários de execução e utilitários baseados em Linux. | [Link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) |
 
 ## ⚙️ Userscripts.
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
-| ❤️ Absolute Enable Right Click & Copy | Força o Clique com o Botão Direito | [Link](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) |
+| ❤️ Absolute Enable Right Click & Copy | Força o Clique com o Botão Direito. | [Link](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) |
 | Auto Close YouTube Ads | Feche e/ou silencie os anúncios do YouTube automaticamente! | [Link](https://greasyfork.org/en/scripts/9165-auto-close-youtube-ads) |
 | Brainly++ | Remove a limitação de ver respostas no Brainly. | [Link](https://greasyfork.org/pt-BR/scripts/430355-brainly) |
 | ❤️ ChatGPT Code Completer | ChatGPT limita a quantidade de saída de código. Portanto, este script adiciona um botão continuar na página do ChatGPT para continuar obtendo o fluxo de código de saída. Certifique-se de que uma resposta anterior com um bloco de código esteja presente para fazê-la funcionar. | [Link](https://greasyfork.org/en/scripts/456426-chatgpt-code-completer) |
 | ChatGPT Search | Respostas do ChatGPT exibidas na barra lateral após a pesquisa (Google, Bing, Baidu, DuckDuckGo e DeepL). | [Link](https://greasyfork.org/en/scripts/456077-chatgpt-search) |
 | Endless Google | Carregue automaticamente mais resultados de pesquisa no final do documento. | [Link](https://openuserjs.org/scripts/tumpio/Endless_Google) |
-| ❤️ githubForkz | Adiciona um botão para encontrar forks ativos e úteis no Github. | [Link](https://greasyfork.org/en/scripts/438580-githubforkz) |
+| Enhance twitch | Bônus de reivindicação de clique automaticamente (pontos e momentos do canal), mostre imagens/vídeo no bate. | [Link](https://greasyfork.org/en/scripts/375467-enhance-twitch) |
+| ❤️ Glassdoor Paywall Zapper Fixed | Remova a funcionalidade Paywall & Restore Scroll no Glassdoor e repita algumas vezes. | [Link](https://greasyfork.org/en/scripts/432317-glassdoor-paywall-zapper-fixed) |
+| Google Search Extra Buttons | Adicionar botões (passado 1/2/3 dias, semanas, pesquisa em PDF etc.) para a página de pesquisa do Google. | [Link](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) |
+| ❤️ Instagram Download Button | Adicione o botão de download e o botão Abrir para baixar ou abrir a imagem e a mídia nas postagens, histórias e destaques no Instagram. | [Link](https://greasyfork.org/en/scripts/406535-instagram-download-button) |
 | Login reminder popup remover | Remove os irritantes pop-ups e banners de login das versões para celular e desktop do Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest, Tumblr, Twitch e das versões para celular do Youtube e TikTok. | [Link](https://greasyfork.org/pt-BR/scripts/395497-login-reminder-popup-remover) |
-| Reader Mode | Ver "modo leitor", versão arquivada ou sem paywall de uma página. | [Link](https://greasyfork.org/en/scripts/431192-view-current-page-in-reader-mode-archived-or-paywall-free-with-a-keyboard-shortcut) |
+| Netflix Marathon (Pausable) | Um usuário configurável que pula automaticamente recapitulações, introduções, créditos e anúncios e clique em "o próximo episódio" solicita a Netflix, o Amazon Prime Video, Hulu, HBO Max, Starz, Disney+e Hotstar. | [Link](https://github.com/aminomancer/Netflix-Marathon-Pausable) |
+| ❤️ Reader Mode | Ver "modo leitor", versão arquivada ou sem paywall de uma página. | [Link](https://greasyfork.org/en/scripts/431192-view-current-page-in-reader-mode-archived-or-paywall-free-with-a-keyboard-shortcut) |
 | ❤️ Sci-hub button | Adicione o botão sci-hub na página do artigo. Adicione o botão sci-hub após o link do artigo. Suporte ao Google Scholar, o Bing Academic e o Baidu Xueshu. Pule o artigo em inglês da CNKI para o artigo em chinês. | [Link](https://greasyfork.org/en/scripts/370246-sci-hub-button) |
 | Select text inside a link like Opera | Ao instalar este script, você pode selecionar o texto dentro de um link sem arrastá-lo se o cursor for movido horizontalmente. | [Link](https://github.com/eight04/select-text-inside-a-link-like-opera#readme) |
+| YouTube Clickbait-Buster | Verifique se vale a pena assistir a um vídeo antes de clicar nele, espreitando seu conteúdo visual ou verbal, descrição, comentários, visualizando a miniatura em tamanho real e exibindo o título completo. Funciona no desktop e nos layouts móveis do YouTube e é compatível com o Dark Theme. | [Link](https://github.com/hjk789/Userscripts/tree/master/YouTube-Clickbait-Buster) |
 | YouTube Auto-Liker | Gosta automaticamente de vídeos de canais nos quais você está inscrito. | [Link](https://greasyfork.org/en/scripts/33865-youtube-auto-liker) |
 
 ## 📚 Recomendação de livros.
@@ -1088,6 +1104,5 @@ Os nomes e logotipos presentes nesse repositório são de seus respectivos criad
 
 <a href="#top">🔝 Volte para o topo</a>
 
-<div align="right">
-<img src="./assets/vncsmnl.gif" alt="signature" width="200">
-</div>
+<div><img align="right" src="./assets/vncsmnl.gif" alt="signature" width="200"></div>
+<div><img align="left" src="./assets/rate_w.png" alt="like" width="80"></div>

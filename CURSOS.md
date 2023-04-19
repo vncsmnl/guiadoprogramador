@@ -1245,6 +1245,5 @@
 
 <a href="#top">🔝 Volte para o topo</a>
 
-<div align="right">
-<img src="./assets/vncsmnl.gif" alt="signature" width="200">
-</div>
+<div><img align="right" src="./assets/vncsmnl.gif" alt="signature" width="200"></div>
+<div><img align="left" src="./assets/rate_w.png" alt="like" width="80"></div>
