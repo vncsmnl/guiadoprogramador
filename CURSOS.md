@@ -1248,4 +1248,4 @@
 <a href="#top">🔝 Volte para o topo</a>
 
 <div><img align="right" src="./assets/vncsmnl.gif" alt="signature" width="200"></div>
-<div><img align="left" src="./assets/rate_w.png" alt="like" width="80"></div>
+<div><img align="left" src="./assets/rate1_w.png" alt="like" width="80"></div>
