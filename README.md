@@ -555,18 +555,23 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | LeetCode | Desafios de Programação Back-end. IDE integrada. | [Link](https://leetcode.com/) |
 | OsProgramadores | Desafios de Lógica de Programação do grupo Os Programadores. | [Link](https://osprogramadores.com/desafios/) |
 | ProjectEuler | Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada. | [Link](https://projecteuler.net/) |
+| SadServers | Solucionar problemas e fazer um servidor triste feliz! | [Link](https://sadservers.com/) |
 | Sphere Onlune Judge (SPOJ) | Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada. | [Link](https://www.spoj.com/) |
+| SQL Murder Mystery | Você pode descobrir o whodunnit? | [Link](https://mystery.knightlab.com/) |
 | TopCoder | Desafios e Arena de Programação Back-end. IDE integrada. | [Link](https://arena.topcoder.com/) |
 | URI/Beecrowd | Desafios Programação Back-end, matemáticos e SQL. IDE integrada. | [Link](https://www.beecrowd.com.br/) |
 | What to Code | Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio. | [Link](https://what-to-code.com/) |
 
-## 🛠️ Ferramentas que todo DEV precisa conhecer.
+## 🛠️ Sites e Ferramentas que todo DEV precisa conhecer.
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
+| ❤️ asdf | O Gerenciador de Versões em Tempo de Execução | [Link](https://asdf-vm.com/pt-br/) |
 | AlternativeTo | 105.866 aplicativos 855.772 curtidas 832.601 opiniões sobre alternativas. | [Link](https://alternativeto.net/) |
+| AutoRegex | Conversões sem esforço do inglês para regex | [Link](https://www.autoregex.xyz/) |
 | BundlePhobia | Site para descobrir o custo de adicionar um npm package no seu pacote. | [Link](https://bundlephobia.com) |
 | ❤️ ChatGPT | O ChatGPT é um protótipo de um chatbot com inteligência artificial desenvolvido pela OpenAI especializado em diálogo. | [Link](https://chat.openai.com/chat) |
+| Choose a License | Licenças de  código aberto concedem permissão para qualquer pessoa usar, modificar e compartilhar software licenciado para qualquer finalidade, sujeito a condições que preservam a proveniência e a abertura do software. | [Link](https://choosealicense.com/licenses/) |
 | CloudCraft | Plataforma com foco em criar desenhos de arquiteturas AWS. | [Link](https://www.cloudcraft.co) |
 | Code Triage | Ajude seus projetos de código aberto favoritos e torne-se um desenvolvedor melhor ao fazê-lo. | [Link](https://www.codetriage.com/) |
 | ❤️ DevDocs | O DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável. | [Link](https://devdocs.io/) |
@@ -839,7 +844,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | DevDojo | Tutoriais sobre programação, playlist, e conteúdo sobre a área de informática. | [Link](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g) |
 | DevMedia | Canal de um dos maiores portais sobre programação do Brasil. | [Link](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) |
 | DevSuperior | Canal para estudantes e profissionais iniciantes. | [Link](https://youtube.com/devsuperior) |
-| Diolinux | Canal sobre o mundo Linux e suas tecnologias. | [Link](https://www.youtube.com/user/diolinux) |
+| ❤️ Diolinux | Canal sobre o mundo Linux e suas tecnologias. | [Link](https://www.youtube.com/user/diolinux) |
 | EDMT Dev | Tutoriais para code e hacking. | [Link](https://youtube.com/c/eddydn71) |
 | Erick Wendel | Canal com conteúdos inéditos e exclusivos sobre Node.js, Javascript. | [Link](https://www.youtube.com/c/ErickWendelTreinamentos) |
 | Escola Front-end | Conteúdo sobre Front-end. | [Link](https://www.youtube.com/c/EscolaFrontend/)  |
@@ -881,7 +886,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Protocolo Alterado | Conteúdos sobre Programação e Desenvolvimento Web por Beto Muniz. | [Link](https://youtube.com/c/ProtocoloAlterado)  |
 | Rafaella Ballerini | Experiência no mundo tech e dicas sobre como se encaixar na área. | [Link](https://www.youtube.com/user/RafaellaBallerini/) |
 | Raja Yogan | Fornecendo tutoriais de tecnologia de qualidade para todos. | [Link](https://youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ) |
-| ❤️ Rocketseat | Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado. | [Link](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) |
+| Rocketseat | Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado. | [Link](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) |
 | Rodrigo Branas | Canal sobre desenvolvimento web com foco em JavaScript. | [Link](https://www.youtube.com/user/rodrigobranas) |
 | Roger Melo | Canal com aula e dicas de JavaScript puro. | [Link](https://www.youtube.com/c/RogerMelo) |
 | Santos Enoque | Ensinar as pessoas a construir softwares do mundo real e garantir que elas tenham habilidades que são realmente necessárias no mercado. | [Link](https://youtube.com/c/SantosEnoque) |
@@ -981,26 +986,31 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | AIPRM for ChatGPT | O AIPRM adiciona uma lista de modelos de prompt selecionados para SEO, SaaS e muito mais para o ChatGPT.  Tente hoje. | [Link](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) |
 | Bitwarden | Um gerenciador de senhas seguro e gratuito para todos os seus dispositivos. | [Link](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) |
 | Blackbox  | BLACKBOX é a maneira mais rápida de copiar texto de vídeos, imagens, PDFs, qualquer coisa... sempre! | [Link](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) |
-| ❤️ Buster | Economize tempo pedindo ao Buster para resolver captchas para você. | [Link](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) |
+| Buster | Economize tempo pedindo ao Buster para resolver captchas para você. | [Link](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) |
 | Copyfish 🐟 | Copie, cole e traduza texto de qualquer imagem, vídeo ou PDF. | [Link](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj) |
 | CSS Peeper | Um visualizador de propriedades CSS simples. | [Link](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) |
 | ❤️ daily.dev | Receba um feed das notícias mais quentes do desenvolvedor personalizado para você. | [Link](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) |
 | Dark Reader | Tema escuro para todos os sites. Mantenha os seus olhos relaxados usando o tema escuro em sua navegação diária. | [Link](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=pt-BR) |
-| ❤️ Enhanced ChatGPT | A extensão do ChatGPT aprimorada adiciona novos recursos ao ChatGPT, incluindo exportação de bate -papo e modelos de prompt.  Um must-have para usuários de chatgpt. | [Link](https://chrome.google.com/webstore/detail/enhanced-chatgpt/mcbhhiafbiafmggccdcpgfldcaeipopg) |
+| Enhanced ChatGPT | A extensão do ChatGPT aprimorada adiciona novos recursos ao ChatGPT, incluindo exportação de bate -papo e modelos de prompt.  Um must-have para usuários de chatgpt. | [Link](https://chrome.google.com/webstore/detail/enhanced-chatgpt/mcbhhiafbiafmggccdcpgfldcaeipopg) |
 | FastForward | Não perca tempo com conformidade. | [Link](https://fastforward.team/) |
 | FasterWeb | FasterWeb funciona melhor em páginas que estão nos mesmos sites. Páginas para sites externos ainda são mais rápidas, mas geralmente não o suficiente para serem notadas. | [Link](https://chrome.google.com/webstore/detail/fasterweb/nmgpnfccjfjhdenioncabecepjcmdnjg) |
-| File Icons for GitHub and GitLab | Uma ferramenta de navegador simples altera o ícone do arquivo no GitHub, GitLab, gitea e gogs | [Link](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe) |
 | Fonts Ninja | Acelere seu fluxo de trabalho de design! Identifique fontes de qualquer site, marque-as, experimente e compre-as. | [Link](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) |
-| ❤️ GitHub Web IDE | Esta extensão adiciona a qualquer repositório GitHub um novo menu suspenso que oferece links para vários serviços online que permitem visualizar o código-fonte do repositório em uma interface semelhante a IDE. | [Link](https://chrome.google.com/webstore/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) |
 | GoFullPage | Capture uma captura de tela da sua página atual de forma completa e confiável, sem solicitar permissões extras! | [Link](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) |
+| html.to.design | Converta qualquer site em projetos de figma totalmente editáveis. Aproveite um site existente e importe seu HTML para a figma para iniciar seus próprios designs, sem criar cada elemento do zero. | [Link](https://chromewebstore.google.com/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed) |
 | Improve YouTube! | Torne o YouTube organizado e inteligente! Pular Anúncio, colorir YouTube, volume, velocidade, canal, ferramenta, estilo, HD | [Link](https://chrome.google.com/webstore/detail/improve-youtube-%F0%9F%8E%A7-for-yo/bnomihfieiccainjcjblhegjgglakjdd) |
 | JSON Viewer | O marcador JSON/JSONP mais bonito e personalizável que seus olhos já viram. | [Link](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) |
+| Material Icons for GitHub | Substitua os ícones de arquivo/pasta no navegador de arquivos GitHub por ícones que representam o tipo do arquivo e por qual ferramenta ele é usado. | [Link](https://chromewebstore.google.com/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc) |
+| MaxAI.me | Use AI Anywhere Online. | [Link](https://www.maxai.me/) |
+| ❤️ NopeCHA: CAPTCHA Solver | AI para reconhecimento automático de captcha. | [Link](https://nopecha.com/) |
 | Octotree | A maneira mais fácil de identificar fontes em páginas da web. | [Link](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) |
 | React Developer Tools | React Developer Tools é uma extensão do Chrome DevTools para a biblioteca React JavaScript de código aberto. Ele permite que você inspecione as hierarquias de componentes do React nas Ferramentas do desenvolvedor do Chrome. | [Link](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) |
 | Responsive Viewer | Mostrar várias telas uma vez, testador de design responsivo. | [Link](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) |
 | Scribe  | Gere automaticamente guias passo a passo, apenas clicando em gravar. Economize mais de 20 horas/mês para sua equipe em comparação com tutoriais em vídeo e texto. | [Link](https://chrome.google.com/webstore/detail/scribe-%E2%80%94-documentation-so/okfkdaglfjjjfefdcppliegebpoegaii) |
+| SponsorBlock  | Pule patrocinadores, pedidos para se inscrever e mais em vídeos do YouTube. Denuncie patrocinadores em vídeos que você assistir… | [Link](https://chromewebstore.google.com/detail/sponsorblock-para-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=pt-BR) |
 | Tactiq | Salve legendas e transcrições do Google Meet e Zoom. | [Link](https://chrome.google.com/webstore/detail/tactiq-transcribe-google/fggkaccpbmombhnjkjokndojfgagejfb) |
+| The Great Suspender | Faça o seu computador funcionar sem problemas suspendendo as guias que você não está usando | [Link](https://chromewebstore.google.com/detail/the-great-suspender/ahkbmjhfoplmfkpncgoedjgkajkehcgo?hl=pt-BR) |
 | uBlock Origin | Um complemento de bloqueador eficiente para vários navegadores. Rápido, potente e enxuto. | [Link](https://github.com/gorhill/uBlock) |
+| User-Agent Switcher and Manager | Mude o user agent do navegador rapidamente | [Link](https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) |
 | ❤️ Violentmonkey | Fornece suporte a scripts de usuários para navegadores. | [Link](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) |
 | VisBug | É uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. | [Link](https://github.com/GoogleChromeLabs/ProjectVisBug) |
 | Vue Devtools | Extensão do Browser DevTools para depuração de aplicativos Vue.js. | [Link](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR) |
@@ -1017,17 +1027,22 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ASL | Esta extensão é uma versão convertida do pacote de realce de sintaxe para o editor Atom language-asl. | [Link](https://marketplace.visualstudio.com/items?itemName=Thog.vscode-asl) |
 | Auto Close Tag | Adicione automaticamente a tag HTML/XML, o mesmo que o Visual Studio IDE ou o Sublime Text. | [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) |
 | Auto Rename Tag | Renomear Tags automaticamente. | [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) |
+| Better Comments | Melhore seu código comentando com alertas, informação, TODO e muito mais! | [Link](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) |
 | Bookmarks | Marque linhas e pule para elas. | [Link](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) |
 | Code Runner | Executar trecho de código ou arquivo de código para vários idiomas. | [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) |
 | ❤️ Code Spell Checker | Verificador ortográfico para código-fonte | [Link](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) |
 | Colorize | Uma extensão vscode para ajudar a visualizar cores CSS em arquivos. | [Link](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) |
 | Console Ninja | Uma extensão que exibe a saída do console.log e os erros de tempo de execução diretamente em seu editor a partir do navegador ou aplicativo node em execução. | [Link](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) |
+| Data Preview | Visualização de dados ?? Extensão para importação ?? visualização ?? fatiamento ?? cubos ?? Charting ?? e exportação ?? Grande Array/Config, YAML, Arrow Apache, Avro, Arquivo de Dados de Parquet e Excel | [Link](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-preview) |
+| Discord Rich Presence | Extensão de presença rica em discórdia altamente personalizável para o código do visual estúdio | [Link](https://marketplace.visualstudio.com/items?itemName=LeonardSSH.vscord) |
 | Docker | A extensão do Docker facilita a criação, o gerenciamento e a implantação de aplicativos de contêiner do Código do Visual Studio. Ele também fornece depuração de um clique de Node.js, Python e .Net dentro de um contêiner. | [Link](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) |
 | Dracula Refined | Mais um fork do tema oficial do Drácula, porém, melhor (na minha opinião). | [Link](https://marketplace.visualstudio.com/items?itemName=mathcale.theme-dracula-refined) |
 | Error Lens | ErrorLens Turbo-Charges Recursos de diagnóstico da linguagem, fazendo com que os diagnósticos se destacem com mais destaque, destacando toda a linha onde quer que um diagnóstico seja gerado pelo idioma e também imprime a mensagem em linha. | [Link](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) |
 | Evondev - Indent Rainbow Palettes | Gera uma paleta de arco-íris para o recuo. | [Link](https://marketplace.visualstudio.com/items?itemName=evondev.indent-rainbow-palettes) |
+| GitHub Copilot | Seu programador de pares de IA | [Link](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) |
 | ❤️ GitLens | Sobrecarregue o Git dentro do VS Code — Visualize a autoria do código rapidamente por meio de anotações de culpa do Git e CodeLens, navegue e explore repositórios Git, obtenha insights valiosos por meio de visualizações avançadas e comandos de comparação poderosos e muito mais. | [Link](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
 | indent-rainbow | Facilita a leitura do recuo. | [Link](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) |
+| Learn Vim | Aprenda VIM dentro do vscode. | [Link](https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim) |
 | Live Server | Inicie um servidor de desenvolvimento local com recurso de recarga ao vivo para páginas estáticas e dinâmicas. | [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
 | Markdown All in One | Tudo o que você precisa para escrever Markdown (atalhos de teclado, índice, visualização automática e muito mais). | [Link](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) |
 | Material Icon Theme | Ícones de design de material para código do Visual Studio. | [Link](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) |
@@ -1040,6 +1055,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ❤️ Remote - WSL | Abra qualquer pasta no Windows Subsystem for Linux (WSL) e aproveite o conjunto completo de recursos do Visual Studio Code. | [Link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) |
 | Svg Preview | Svg Preview for VSCode | [Link](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) |
 | ThunderClient | É um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. | [Link](https://www.thunderclient.io) |
+| vscode-faker | Gerar dados falsos para nome, endereço, lorem ipsum, comércio e muito mais | [Link](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) |
 | ❤️ WakaTime | O Wakatime é um plugin de código aberto vs para métricas, insights e rastreamento de tempo gerado automaticamente a partir da sua atividade de programação. | [Link](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) |
 | WSL | A extensão WSL permite usar o código VS no Windows para criar aplicativos Linux executados no subsistema do Windows para Linux (WSL). Você obtém toda a produtividade do Windows enquanto se desenvolve com ferramentas, horários de execução e utilitários baseados em Linux. | [Link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) |
 
@@ -1047,40 +1063,43 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
+| !bang Anywhere | Use DuckDuckGo !bangs(quase) em qualquer lugar | [Link](https://greasyfork.org/en/scripts/469625-bang-anywhere) |
 | ❤️ Absolute Enable Right Click & Copy | Força o Clique com o Botão Direito. | [Link](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) |
 | Auto Close YouTube Ads | Feche e/ou silencie os anúncios do YouTube automaticamente! | [Link](https://greasyfork.org/en/scripts/9165-auto-close-youtube-ads) |
 | Brainly++ | Remove a limitação de ver respostas no Brainly. | [Link](https://greasyfork.org/pt-BR/scripts/430355-brainly) |
-| ❤️ ChatGPT Code Completer | ChatGPT limita a quantidade de saída de código. Portanto, este script adiciona um botão continuar na página do ChatGPT para continuar obtendo o fluxo de código de saída. Certifique-se de que uma resposta anterior com um bloco de código esteja presente para fazê-la funcionar. | [Link](https://greasyfork.org/en/scripts/456426-chatgpt-code-completer) |
-| ChatGPT Search | Respostas do ChatGPT exibidas na barra lateral após a pesquisa (Google, Bing, Baidu, DuckDuckGo e DeepL). | [Link](https://greasyfork.org/en/scripts/456077-chatgpt-search) |
 | Endless Google | Carregue automaticamente mais resultados de pesquisa no final do documento. | [Link](https://openuserjs.org/scripts/tumpio/Endless_Google) |
 | Enhance twitch | Bônus de reivindicação de clique automaticamente (pontos e momentos do canal), mostre imagens/vídeo no bate. | [Link](https://greasyfork.org/en/scripts/375467-enhance-twitch) |
-| ❤️ Glassdoor Paywall Zapper Fixed | Remova a funcionalidade Paywall & Restore Scroll no Glassdoor e repita algumas vezes. | [Link](https://greasyfork.org/en/scripts/432317-glassdoor-paywall-zapper-fixed) |
 | Google Search Extra Buttons | Adicionar botões (passado 1/2/3 dias, semanas, pesquisa em PDF etc.) para a página de pesquisa do Google. | [Link](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) |
 | ❤️ Instagram Download Button | Adicione o botão de download e o botão Abrir para baixar ou abrir a imagem e a mídia nas postagens, histórias e destaques no Instagram. | [Link](https://greasyfork.org/en/scripts/406535-instagram-download-button) |
+| KudoAI | Trazendo IA de ponta para as massas. | [Link](https://github.com/KudoAI) |
 | Login reminder popup remover | Remove os irritantes pop-ups e banners de login das versões para celular e desktop do Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest, Tumblr, Twitch e das versões para celular do Youtube e TikTok. | [Link](https://greasyfork.org/pt-BR/scripts/395497-login-reminder-popup-remover) |
+| Medium Unlocker | Detecte automaticamente artigos (incluindo subdomínios e domínios personalizados) e substitue o URL pelo readmedium.com para desbloquear postagens. | [Link](https://greasyfork.org/en/scripts/481493-medium-unlocker-2023-12-06-updated) |
 | Netflix Marathon (Pausable) | Um usuário configurável que pula automaticamente recapitulações, introduções, créditos e anúncios e clique em "o próximo episódio" solicita a Netflix, o Amazon Prime Video, Hulu, HBO Max, Starz, Disney+e Hotstar. | [Link](https://github.com/aminomancer/Netflix-Marathon-Pausable) |
+| Passei Direto Bypass | Remove o efeito blur do conteúdo do site passeidireto.com | [Link](https://greasyfork.org/en/scripts/465129-passei-direto-bypass) |
 | ❤️ Reader Mode | Ver "modo leitor", versão arquivada ou sem paywall de uma página. | [Link](https://greasyfork.org/en/scripts/431192-view-current-page-in-reader-mode-archived-or-paywall-free-with-a-keyboard-shortcut) |
 | ❤️ Sci-hub button | Adicione o botão sci-hub na página do artigo. Adicione o botão sci-hub após o link do artigo. Suporte ao Google Scholar, o Bing Academic e o Baidu Xueshu. Pule o artigo em inglês da CNKI para o artigo em chinês. | [Link](https://greasyfork.org/en/scripts/370246-sci-hub-button) |
 | Select text inside a link like Opera | Ao instalar este script, você pode selecionar o texto dentro de um link sem arrastá-lo se o cursor for movido horizontalmente. | [Link](https://github.com/eight04/select-text-inside-a-link-like-opera#readme) |
+| Songsterr Premium | Desbloqueia todos os recursos premium no Songsterr | [Link](https://greasyfork.org/en/scripts/469079-songsterr-premium-songsterr-com) |
+| Twitter X -> Blue Bird | Substitua o logotipo X do Twitter pelo pássaro azul | [Link](https://greasyfork.org/en/scripts/471871-twitter-bring-back-old-name-and-logo) |
 | YouTube Clickbait-Buster | Verifique se vale a pena assistir a um vídeo antes de clicar nele, espreitando seu conteúdo visual ou verbal, descrição, comentários, visualizando a miniatura em tamanho real e exibindo o título completo. Funciona no desktop e nos layouts móveis do YouTube e é compatível com o Dark Theme. | [Link](https://github.com/hjk789/Userscripts/tree/master/YouTube-Clickbait-Buster) |
-| YouTube Auto-Liker | Gosta automaticamente de vídeos de canais nos quais você está inscrito. | [Link](https://greasyfork.org/en/scripts/33865-youtube-auto-liker) |
+| YouTube Auto-Liker | Da like automaticamente em vídeos de canais nos quais você está inscrito. | [Link](https://greasyfork.org/en/scripts/33865-youtube-auto-liker) |
 
 ## 📚 Recomendação de livros.
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
 | 14 Hábitos de Desenvolvedores Altamente Produtivos | Livro por Zeno Rocha. | [Link](https://g.co/kgs/1fGbnx) |
-| Anna’s Archive | 🔍 Motor de busca de shadow libraries (bibliotecas-sombra): livros, artigos, quadrinhos, revistas. ⭐️ Z-Library, Library Genesis, Sci-Hub. ⚙️ Totalmente resiliente por meio de código-fonte aberto e dados de livre acesso. ❤️ Divulgue: aqui todos são bem-vindos! | [Link](https://pt.annas-archive.org/) |
-| ❤️ Casa do Código | Casa do Código é uma editora de livros de TI, com o selo da didática do grupo Alura. Nossos títulos englobam o universo da programação, Front-end, Mobile, Infraestrutura, Business, Design e UX. | [Link](https://www.casadocodigo.com.br/) | 
+| ❤️ Anna’s Archive | 🔍 Motor de busca de shadow libraries (bibliotecas-sombra): livros, artigos, quadrinhos, revistas. ⭐️ Z-Library, Library Genesis, Sci-Hub. ⚙️ Totalmente resiliente por meio de código-fonte aberto e dados de livre acesso. ❤️ Divulgue: aqui todos são bem-vindos! | [Link](https://pt.annas-archive.org/) |
+| Casa do Código | Casa do Código é uma editora de livros de TI, com o selo da didática do grupo Alura. Nossos títulos englobam o universo da programação, Front-end, Mobile, Infraestrutura, Business, Design e UX. | [Link](https://www.casadocodigo.com.br/) | 
 | Clean Archtecture - Arquitertura Limpa | Livro por Robert Cecil Martin. | [Link](https://g.co/kgs/62wx9t) |
 | Clean Code - Código Limpo | Livro por Robert Cecil Martin. | [Link](https://g.co/kgs/62wx9t) |
+| ❤️ Curadoria Tabnews | Curadoria feita pelo D3vlopes (Leia os comentários)| [Link](https://www.tabnews.com.br/D3vlopes/melhores-livros-de-programacao-parte-1) |
 | Eloquent JavaScript | Livro por Marijn Haverbeke. | [Link](https://eloquentjavascript.net/) |
 | ❤️ free-programming-books | Livros de programação disponíveis gratuitamente | [Link](https://github.com/EbookFoundation/free-programming-books) |
 | Library Genesis | Parte do projeto Z-Library. A maior biblioteca eletrónica do mundo. | [Link](https://libgen.is/) |
 | Mind Expanding Books | Livros que todos deveriam ler! | [Link](https://github.com/hackerkid/Mind-Expanding-Books) |
 | O programador pragmático | Livro por Andy Hunt e Dave Thomas. | [Link](https://g.co/kgs/5nbqB3) |
 | Refactoring - Refatoração | Livro por Kent Beck e Martin Fowler. | [Link](https://g.co/kgs/Hf2eY3) |
-| The Road to learn React (Português) | Livro por Robin Wieruch e Claudio Romero | [Link](https://leanpub.com/the-road-to-learn-react-portuguese) |
 | ❤️ Z-Library | Parte do projeto Z-Library. A maior biblioteca eletrónica do mundo.| [Link](http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/) |
 
 ## 📱 Apps para praticar programação.
