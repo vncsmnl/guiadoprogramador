@@ -7,7 +7,7 @@
 
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%2210 0 100 100%22><text y=%22.90em%22 font-size=%2290%22>🖥</text></svg>">
 
-[![Awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <sub> <strong>forked from arthurspk/guiadevbrasil</strong>
 
@@ -50,6 +50,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 
 - [😎 Awesome Lists](#-awesome-lists)
 - [🗺️ Roadmaps](#-roadmaps)
+- [🤖 Inteligência Artificial](#-inteligência-artificial)
 - [🖥️ Sites para estudar programação](#-sites-para-estudar-programação)
 - [🎨 Sites para desenvolvedor front-end](#-sites-para-desenvolvedor-front-end)
 - [🎮 Sites para aprender a programar jogando](#-sites-para-aprender-a-programar-jogando)
@@ -122,6 +123,18 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ❤️ Ruby Roadmap | Desenvolvimento de evolução Ruby | [Link](https://github.com/evertonlopesc/Ruby-Roadmap) |
 | Rust Web Developer Roadmap | Roteiro para se tornar um desenvolvedor web Rust. | [Link](https://github.com/anshulrgoyal/rust-web-developer-roadmap) |
 | UI/UX Designer Roadmap | Roteiro para se tornar um designer de UI/UX. | [Link](https://github.com/togiberlin/ui-ux-designer-roadmap) |
+
+## 🤖 Inteligência Artificial.
+
+| Nome         | Descrição     | Site |
+|--------------|-----------|------------|
+| Bard | Descubra mais sobre o Bard, uma ferramenta colaborativa de IA desenvolvida pelo Google para ajudar a dar vida às suas ideias. | [Link](https://bard.google.com/chat) |
+| ❤️ ChatGPT | O ChatGPT é um protótipo de um chatbot com inteligência artificial desenvolvido pela OpenAI especializado em diálogo. | [Link](https://chat.openai.com/chat) |
+| Copilot | O Microsoft Copilot aproveita o poder da IA para aumentar a produtividade, desbloquear a criatividade e ajuda você a entender melhor as informações com uma experiência de chat simples. | [Link](https://copilot.microsoft.com/?wlexpsignin=1) |
+| Kits AI |  Crie suas próprias vozes de IA ou transforme sua voz usando nossa crescente biblioteca de vozes de artistas de IA livres de royalties e oficialmente licenciadas. | [Link](https://app.kits.ai/community-voices) |
+| Phind | Mecanismo de busca de IA desenvolvido para desenvolvedores. | [Link](https://www.phind.com/search?home=true) |
+| ❤️ Theres an ai for that | Encontre e compare os melhores aplicativos e serviços de IA para diversos fins, como compras, escrita, jogos, marketing e muito mais. | [Link](https://theresanaiforthat.com/) |
+| ZeroGPT | Ferramenta que detecta e destaca conteúdo gerado por IA como Chat GPT, GPT 4 e Bard em seu texto. | [Link](https://www.zerogpt.com/) |
 
 ## 🖥️ Sites para estudar programação.
 
@@ -239,6 +252,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ❤️ Neumorphism | Tendência aplicação border-radius. | [Link](https://neumorphism.io/) |
 | Tridiv | Fazer 3D em CSS nunca foi tão fácil. | [Link](http://tridiv.com/) |
 | WAIT! Animate | Gerador de animações de CSS. | [Link](https://waitanimate.wstone.io) |
+
 ## 🔎 Sites para buscar vagas remotas.
 
 | Nome         | Descrição     | Site |
@@ -386,6 +400,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Todoist | Gerenciamento de projetos pessoais e em equipe. | [Link](https://todoist.com/app?lang=pt_BR) |
 | Trello | Gerencie seus projetos com quadros. | [Link](https://www.trello.com/) |
 | YouTrack | Gerenciador de projetos online. | [Link](https://www.jetbrains.com/youtrack/) |
+
 ## 📝 IDEs e editores de código.
 
 | Nome         | Descrição     | Site |
@@ -570,11 +585,11 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | AlternativeTo | 105.866 aplicativos 855.772 curtidas 832.601 opiniões sobre alternativas. | [Link](https://alternativeto.net/) |
 | AutoRegex | Conversões sem esforço do inglês para regex | [Link](https://www.autoregex.xyz/) |
 | BundlePhobia | Site para descobrir o custo de adicionar um npm package no seu pacote. | [Link](https://bundlephobia.com) |
-| ❤️ ChatGPT | O ChatGPT é um protótipo de um chatbot com inteligência artificial desenvolvido pela OpenAI especializado em diálogo. | [Link](https://chat.openai.com/chat) |
 | Choose a License | Licenças de  código aberto concedem permissão para qualquer pessoa usar, modificar e compartilhar software licenciado para qualquer finalidade, sujeito a condições que preservam a proveniência e a abertura do software. | [Link](https://choosealicense.com/licenses/) |
 | CloudCraft | Plataforma com foco em criar desenhos de arquiteturas AWS. | [Link](https://www.cloudcraft.co) |
 | Code Triage | Ajude seus projetos de código aberto favoritos e torne-se um desenvolvedor melhor ao fazê-lo. | [Link](https://www.codetriage.com/) |
 | ❤️ DevDocs | O DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável. | [Link](https://devdocs.io/) |
+| ❤️ Docker | É uma plataforma que ajuda os desenvolvedores a construir, compartilhar e executar aplicativos em qualquer lugar com imagens e contêineres Docker. | [Link](https://www.docker.com/) |
 | Emailnator | Gerador de emails temporários. | [Link](https://www.emailnator.com/) |
 | FileCR | Visa facilitar o acesso aos arquivos dos últimos lançamentos, em constante evolução e tentando competir com o tempo, disponibilizando uma interface amigável que permite a busca de arquivos de forma mais fácil e organizada. | [Link](https://filecr.com/) |
 | Font Flipper | Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. | [Link](https://fontflipper.com) |
@@ -596,6 +611,8 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Up for Grabs | Esta é uma lista de projetos que selecionaram tarefas especificamente para novos colaboradores. | [Link](http://up-for-grabs.net/) |
 | Web Developer Roadmap | Trilha de caminhos para seguir para se tornar um desenvolvedor WEB. | [Link](https://github.com/kamranahmedse/developer-roadmap) |
 | ❤️ Winstall | Instale aplicativos do Windows em massa rapidamente com o Gerenciador de Pacotes do Windows. | [Link](https://winstall.app/) |
+| ❤️ WSL | Os desenvolvedores podem aproveitar o Windows e o Linux ao mesmo tempo em um computador Windows. | [Link](https://learn.microsoft.com/pt-br/windows/wsl/install) |
+| WSA | O Subsistema do Windows para Android™️ permite que seu dispositivo Windows 11 execute aplicativos Android que estão disponíveis na Amazon Appstore. | [Link](https://learn.microsoft.com/pt-br/windows/android/wsa/) |
 
 ## 🐧 Distros linux para programadores.
 
@@ -609,7 +626,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Kubuntu | O Kubuntu une o Ubuntu com o KDE e o fabuloso desktop Plasma, trazendo a você um conjunto completo de aplicativos. | [Link](https://kubuntu.org/) |
 | Linux Mint | A versão mais recente do sistema operacional amigável está aqui. Instale-o em seu computador hoje! | [Link](https://linuxmint.com/) |
 | OpenSUSE | A escolha dos criadores para administradores de sistema, desenvolvedores e usuários. | [Link](https://www.opensuse.org) |
-| Pop!\_Os | Pop!_OS é um sistema operacional para STEM e profissionais criativos que usam seu computador como ferramenta para descobrir e criar. | [Link](https://pop.system76.com/) |
+| Pop_Os | Pop!_OS é um sistema operacional para STEM e profissionais criativos que usam seu computador como ferramenta para descobrir e criar. | [Link](https://pop.system76.com/) |
 | Solus | Solus é um sistema operacional projetado para computação doméstica. Cada ajuste nos permite oferecer uma experiência de computação coesa. | [Link](https://www.getsol.us) |
 | Tails | É um sistema operacional portátil que te protege de vigilância e censura. | [Link](https://tails.boum.org/) |
 | ❤️ Ubuntu | O  Ubuntu é de longe o OS Linux mais usada no mundo, impulsionando o trabalho de engenheiros em todo o mundo. | [Link](https://ubuntu.com/) |
@@ -850,7 +867,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Escola Front-end | Conteúdo sobre Front-end. | [Link](https://www.youtube.com/c/EscolaFrontend/)  |
 | EspecializaTi | Canal de cursos Online de Desenvolvimento Web. | [Link](https://youtube.com/c/EspecializatiBr) |
 | ❤️ Fabio Akita | Canal sobre tecnologia e desenvolvimento. | [Link](https://www.youtube.com/user/AkitaOnRails) |
-| ❤️ Fábrica de Noobs | Canal com intruduções a conceitos básicos dentro da computação. | [Link](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) |
+| Fábrica de Noobs | Canal com intruduções a conceitos básicos dentro da computação. | [Link](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) |
 | Facebook Developers | Canal oficial da comunidade de desenvolvedores do Facebook. | [Link](https://www.youtube.com/user/FacebookDevelopers) |
 | ❤️ Felipe Deschamps | Canal delicinha sobre sobre programação e desenvolvimento como dev. | [Link](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) |
 | Felipe Elia | Canal sobre programação para Web com foco em WordPress. | [Link](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ) |
@@ -1001,14 +1018,14 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | JSON Viewer | O marcador JSON/JSONP mais bonito e personalizável que seus olhos já viram. | [Link](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) |
 | Material Icons for GitHub | Substitua os ícones de arquivo/pasta no navegador de arquivos GitHub por ícones que representam o tipo do arquivo e por qual ferramenta ele é usado. | [Link](https://chromewebstore.google.com/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc) |
 | MaxAI.me | Use AI Anywhere Online. | [Link](https://www.maxai.me/) |
-| ❤️ NopeCHA: CAPTCHA Solver | AI para reconhecimento automático de captcha. | [Link](https://nopecha.com/) |
+| NopeCHA: CAPTCHA Solver | AI para reconhecimento automático de captcha. | [Link](https://nopecha.com/) |
 | Octotree | A maneira mais fácil de identificar fontes em páginas da web. | [Link](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) |
 | React Developer Tools | React Developer Tools é uma extensão do Chrome DevTools para a biblioteca React JavaScript de código aberto. Ele permite que você inspecione as hierarquias de componentes do React nas Ferramentas do desenvolvedor do Chrome. | [Link](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) |
 | Responsive Viewer | Mostrar várias telas uma vez, testador de design responsivo. | [Link](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) |
 | Scribe  | Gere automaticamente guias passo a passo, apenas clicando em gravar. Economize mais de 20 horas/mês para sua equipe em comparação com tutoriais em vídeo e texto. | [Link](https://chrome.google.com/webstore/detail/scribe-%E2%80%94-documentation-so/okfkdaglfjjjfefdcppliegebpoegaii) |
 | SponsorBlock  | Pule patrocinadores, pedidos para se inscrever e mais em vídeos do YouTube. Denuncie patrocinadores em vídeos que você assistir… | [Link](https://chromewebstore.google.com/detail/sponsorblock-para-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=pt-BR) |
 | Tactiq | Salve legendas e transcrições do Google Meet e Zoom. | [Link](https://chrome.google.com/webstore/detail/tactiq-transcribe-google/fggkaccpbmombhnjkjokndojfgagejfb) |
-| The Great Suspender | Faça o seu computador funcionar sem problemas suspendendo as guias que você não está usando | [Link](https://chromewebstore.google.com/detail/the-great-suspender/ahkbmjhfoplmfkpncgoedjgkajkehcgo?hl=pt-BR) |
+| Tab Suspender | Faça o seu computador funcionar sem problemas suspendendo as guias que você não está usando | [Link](https://chromewebstore.google.com/detail/tab-suspender/laameccjpleogmfhilmffpdbiibgbekf) |
 | uBlock Origin | Um complemento de bloqueador eficiente para vários navegadores. Rápido, potente e enxuto. | [Link](https://github.com/gorhill/uBlock) |
 | User-Agent Switcher and Manager | Mude o user agent do navegador rapidamente | [Link](https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) |
 | ❤️ Violentmonkey | Fornece suporte a scripts de usuários para navegadores. | [Link](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) |
@@ -1042,11 +1059,11 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | GitHub Copilot | Seu programador de pares de IA | [Link](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) |
 | ❤️ GitLens | Sobrecarregue o Git dentro do VS Code — Visualize a autoria do código rapidamente por meio de anotações de culpa do Git e CodeLens, navegue e explore repositórios Git, obtenha insights valiosos por meio de visualizações avançadas e comandos de comparação poderosos e muito mais. | [Link](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
 | indent-rainbow | Facilita a leitura do recuo. | [Link](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) |
-| Learn Vim | Aprenda VIM dentro do vscode. | [Link](https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim) |
+| ❤️ Learn Vim | Aprenda VIM dentro do vscode. | [Link](https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim) |
 | Live Server | Inicie um servidor de desenvolvimento local com recurso de recarga ao vivo para páginas estáticas e dinâmicas. | [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
 | Markdown All in One | Tudo o que você precisa para escrever Markdown (atalhos de teclado, índice, visualização automática e muito mais). | [Link](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) |
 | Material Icon Theme | Ícones de design de material para código do Visual Studio. | [Link](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) |
-| ❤️ Mintlify | Escrever documentação é uma merda. Deixe Mintlify cuidar disso. Basta destacar o código e ver a mágica. | [Link](https://marketplace.visualstudio.com/items?itemName=mintlify.document) |
+| Mintlify | Escrever documentação é uma merda. Deixe Mintlify cuidar disso. Basta destacar o código e ver a mágica. | [Link](https://marketplace.visualstudio.com/items?itemName=mintlify.document) |
 | Paste JSON as Code | Copie JSON, cole como Go, TypeScript, C#, C++ e muito mais. | [Link](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) |
 | Path Intellisense | Plugin do Visual Studio Code que completa automaticamente os nomes dos arquivos. | [Link](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) |
 | Prettier - Code formatter | Formatador de código. | [Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
@@ -1070,10 +1087,10 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Endless Google | Carregue automaticamente mais resultados de pesquisa no final do documento. | [Link](https://openuserjs.org/scripts/tumpio/Endless_Google) |
 | Enhance twitch | Bônus de reivindicação de clique automaticamente (pontos e momentos do canal), mostre imagens/vídeo no bate. | [Link](https://greasyfork.org/en/scripts/375467-enhance-twitch) |
 | Google Search Extra Buttons | Adicionar botões (passado 1/2/3 dias, semanas, pesquisa em PDF etc.) para a página de pesquisa do Google. | [Link](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) |
-| ❤️ Instagram Download Button | Adicione o botão de download e o botão Abrir para baixar ou abrir a imagem e a mídia nas postagens, histórias e destaques no Instagram. | [Link](https://greasyfork.org/en/scripts/406535-instagram-download-button) |
+| Instagram Download Button | Adicione o botão de download e o botão Abrir para baixar ou abrir a imagem e a mídia nas postagens, histórias e destaques no Instagram. | [Link](https://greasyfork.org/en/scripts/406535-instagram-download-button) |
 | KudoAI | Trazendo IA de ponta para as massas. | [Link](https://github.com/KudoAI) |
 | Login reminder popup remover | Remove os irritantes pop-ups e banners de login das versões para celular e desktop do Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest, Tumblr, Twitch e das versões para celular do Youtube e TikTok. | [Link](https://greasyfork.org/pt-BR/scripts/395497-login-reminder-popup-remover) |
-| Medium Unlocker | Detecte automaticamente artigos (incluindo subdomínios e domínios personalizados) e substitue o URL pelo readmedium.com para desbloquear postagens. | [Link](https://greasyfork.org/en/scripts/481493-medium-unlocker-2023-12-06-updated) |
+| ❤️ Medium Unlocker | Detecte automaticamente artigos (incluindo subdomínios e domínios personalizados) e substitue o URL pelo readmedium.com para desbloquear postagens. | [Link](https://greasyfork.org/en/scripts/481493-medium-unlocker-2023-12-06-updated) |
 | Netflix Marathon (Pausable) | Um usuário configurável que pula automaticamente recapitulações, introduções, créditos e anúncios e clique em "o próximo episódio" solicita a Netflix, o Amazon Prime Video, Hulu, HBO Max, Starz, Disney+e Hotstar. | [Link](https://github.com/aminomancer/Netflix-Marathon-Pausable) |
 | Passei Direto Bypass | Remove o efeito blur do conteúdo do site passeidireto.com | [Link](https://greasyfork.org/en/scripts/465129-passei-direto-bypass) |
 | ❤️ Reader Mode | Ver "modo leitor", versão arquivada ou sem paywall de uma página. | [Link](https://greasyfork.org/en/scripts/431192-view-current-page-in-reader-mode-archived-or-paywall-free-with-a-keyboard-shortcut) |
