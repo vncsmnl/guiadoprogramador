@@ -714,8 +714,8 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Life of Pix | Banco de imagens gratuitas. | [Link](https://www.lifeofpix.com/) |
 | Little Visuals | Banco de imagens gratuitas. | [Link](https://littlevisuals.co/) |
 | Lorempixel | Banco de imagens para uso como template. | [Link](http://lorempixel.com/) |
-| 🧡 Lucide | Lucide é uma biblioteca de ícones de código aberto para exibição de ícones e símbolos em projetos digitais e não digitais. A biblioteca tem como objetivo facilitar a incorporação de ícones em seus projetos por designers e desenvolvedores |
-| Lukas Zadam | Ilustrações SVG em diferentes tamanhos e estilos. | [Link](https://lucide.dev/) |
+| 🧡 Lucide | Lucide é uma biblioteca de ícones de código aberto para exibição de ícones e símbolos em projetos digitais e não digitais. A biblioteca tem como objetivo facilitar a incorporação de ícones em seus projetos por designers e desenvolvedores |[Link](https://lucide.dev/) |
+| Lukas Zadam | Ilustrações SVG em diferentes tamanhos e estilos. | [Link](https://lukaszadam.com/illustrations) |
 | ManyPixels | Galeria de ilustrações com direito a edição de cores. | [Link](https://www.manypixels.co/gallery/) |
 | Morguefile | Banco de imagens gratuitas. | [Link](https://morguefile.com/) |
 | Nappy | Banco de imagens gratuitas (atribuição recomendada). | [Link](https://www.nappy.co) |
