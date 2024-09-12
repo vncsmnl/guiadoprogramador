@@ -332,6 +332,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | JSFiddle | Codifique projetos JS online. | [Link](https://jsfiddle.net/) |
 | JSON Editor Online | Ferramenta para visualizar e editar arquivos JSON. | [Link](https://jsoneditoronline.org/) |
 | JSON Generator | Ferramenta para gerar JSON com base em template. | [Link](https://app.json-generator.com/) |
+| JSONing API | API REST simulada. | [Link](https://jsoning.com/api/) |
 | JSONLint | Ferramenta para validar seu JSON. | [Link](https://jsonlint.com/) |
 | KeyCDN Tools | Faça uma análise das suas aplicações web. | [Link](https://tools.keycdn.com/) |
 | Liveweave | Codifique projetos HTML, CSS e JS. | [Link](https://liveweave.com/) |
@@ -339,6 +340,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Mapbox | Mapas e localização para desenvolvedores. | [Link](https://www.mapbox.com/) |
 | Memcached | Melhore o desempenho de seu website com cache. | [Link](https://memcached.org/) |
 | Mockaroo | Gerador de dados para testes. | [Link](https://www.mockaroo.com/) |
+| Mockium | Gerador de dados para testes. | [Link](https://softwium.com/mockium/) |
 | Motion | Uma nova biblioteca de animação, construída na API Web Animations para o menor tamanho de arquivo e o desempenho mais rápido. | [Link](https://motion.dev/) |
 | Mussum Ipsum | Gerador de texto fictício. | [Link](https://mussumipsum.com/) |
 | NPM HTTP-Server | Rode um servidor local com um pacote npm. | [Link](https://www.npmjs.com/package/http-server) |
