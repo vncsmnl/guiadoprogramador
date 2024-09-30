@@ -332,6 +332,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | JSFiddle | Codifique projetos JS online. | [Link](https://jsfiddle.net/) |
 | JSON Editor Online | Ferramenta para visualizar e editar arquivos JSON. | [Link](https://jsoneditoronline.org/) |
 | JSON Generator | Ferramenta para gerar JSON com base em template. | [Link](https://app.json-generator.com/) |
+| JSONing API | API REST simulada. | [Link](https://jsoning.com/api/) |
 | JSONLint | Ferramenta para validar seu JSON. | [Link](https://jsonlint.com/) |
 | KeyCDN Tools | Faça uma análise das suas aplicações web. | [Link](https://tools.keycdn.com/) |
 | Liveweave | Codifique projetos HTML, CSS e JS. | [Link](https://liveweave.com/) |
@@ -339,6 +340,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Mapbox | Mapas e localização para desenvolvedores. | [Link](https://www.mapbox.com/) |
 | Memcached | Melhore o desempenho de seu website com cache. | [Link](https://memcached.org/) |
 | Mockaroo | Gerador de dados para testes. | [Link](https://www.mockaroo.com/) |
+| Mockium | Gerador de dados para testes. | [Link](https://softwium.com/mockium/) |
 | Motion | Uma nova biblioteca de animação, construída na API Web Animations para o menor tamanho de arquivo e o desempenho mais rápido. | [Link](https://motion.dev/) |
 | Mussum Ipsum | Gerador de texto fictício. | [Link](https://mussumipsum.com/) |
 | NPM HTTP-Server | Rode um servidor local com um pacote npm. | [Link](https://www.npmjs.com/package/http-server) |
@@ -405,7 +407,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
-| Atom | Editor de código do GitHub. | [Link](https://atom.io/) |
+| 🧡 Atom | Editor de código do GitHub. (descontinuado😭) | [Link](https://atom.io/) |
 | BBEdit | Editor de código para Mac OS. | [Link](https://www.barebones.com/products/bbedit/) |
 | Beekeeper Studio | Editor de código SQL e gerenciador de banco de dados. | [Link](https://www.beekeeperstudio.io/) |
 | Brackets | Editor de código da Adobe. | [Link](http://brackets.io/) |
@@ -507,7 +509,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ❤️ JavaScript | Constante evolução e crescimento no mercado. | [Link](http://brasil.js.org) |
 | Julia | Linguagem de programação de código aberto e alto desempenho para computação técnica. | [Link](https://julialang.org/) |
 | Kotlin | Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ. | [Link](https://kotlinlang.org/) |
-| Lua | Linguagem de programação originária do Brasil, permite programação procedural e POO (popular em jogos). | [Link](https://www.lua.org/portugues.html) |
+| 🧡 Lua Script | Linguagem de programação originária do Brasil, permite programação procedural e POO (popular em jogos). | [Link](https://www.lua.org/portugues.html) |
 | MatLab | Linguagem de programação de alto nível com foco em cálculos e construção de gráficos. | [Link](https://www.mathworks.com/help/matlab/) |
 | Pascal | Linguagem de programação imperativa, estruturada e orientada à objetos. | [Link](https://docs.freepascal.org/) |
 | Perl | Linguagem de programação multiplataforma e dinâmica. | [Link](https://www.perl.org/) |
@@ -658,7 +660,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | GoDaddy | Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio | [Link](https://br.godaddy.com/) |
 | GoDaddy | Hospedagem de sites internacional | [Link](https://br.godaddy.com/hosting/web-hosting) |
 | Google Cloud | Serviço de aluguel de servidores da Google | [Link](https://cloud.google.com/solutions/smb/web-hosting/) |
-| Heroku | Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure | [Link](https://www.heroku.com/) |
+| Heroku | Hospedagem de sites ~grátis~ com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure | [Link](https://www.heroku.com/) |
 | HostGator | Hospedagem compartilhada e dedicada para sites e serviços | [Link](https://www.hostgator.com/) |
 | Hostinger | Hospedagem de sites em cloud computing dedicado | [Link](https://www.hostinger.com.br/) |
 | Hostoo | Empresa que descomplica a hospedagem de sites e aplicações PHP para você focar no seu negócio. | [Link](https://hostoo.io/) |
@@ -714,6 +716,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Life of Pix | Banco de imagens gratuitas. | [Link](https://www.lifeofpix.com/) |
 | Little Visuals | Banco de imagens gratuitas. | [Link](https://littlevisuals.co/) |
 | Lorempixel | Banco de imagens para uso como template. | [Link](http://lorempixel.com/) |
+| 🧡 Lucide | Lucide é uma biblioteca de ícones de código aberto para exibição de ícones e símbolos em projetos digitais e não digitais. A biblioteca tem como objetivo facilitar a incorporação de ícones em seus projetos por designers e desenvolvedores |[Link](https://lucide.dev/) |
 | Lukas Zadam | Ilustrações SVG em diferentes tamanhos e estilos. | [Link](https://lukaszadam.com/illustrations) |
 | ManyPixels | Galeria de ilustrações com direito a edição de cores. | [Link](https://www.manypixels.co/gallery/) |
 | Morguefile | Banco de imagens gratuitas. | [Link](https://morguefile.com/) |
