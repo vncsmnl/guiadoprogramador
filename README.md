@@ -1134,11 +1134,23 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 --------------
 ## 📝 Licença.
 
-[![Licença](https://img.shields.io/github/license/mashape/apistatus?branch=master&label=License&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl/guiadoprogramador/blob/main/LICENSE)
+[![Licença](https://img.shields.io/github/license/vncsmnl/guiadoprogramador?style=flat&logo=github&color=blue)](https://github.com/vncsmnl/guiadoprogramador/blob/main/LICENSE)
 
-Uma licença permissiva curta e simples, com condições que exigem apenas a preservação de direitos autorais e avisos de licença. Obras licenciadas, modificações e obras maiores podem ser distribuídas sob diferentes termos e sem código fonte.
+```
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
 
-Os nomes e logotipos presentes nesse repositório são de seus respectivos criadores. Este repositório não é de forma alguma afiliado à nenhum criador ou organização.
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
 
 <a href="#top">🔝 Volte para o topo</a>
 
