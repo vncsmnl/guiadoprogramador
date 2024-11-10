@@ -276,6 +276,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Workana | Conectamos os melhores talentos independentes com as melhores empresas. | [Link](https://www.workana.com/pt) |
 | Working Nomads | Trabalhos remotos para Nômades Trabalhadores Digitais. Trabalhe remotamente de sua casa ou de lugares ao redor do mundo. | [Link](https://workingnomads.co) |
 | X-Team | Desde 2006, a X-Team fornece às principais marcas do mundo equipes de desenvolvedores sob demanda e de alto desempenho. | [Link](https://x-team.com) |
+| Benture | Uma plataforma de empregos focada em oportunidades nas áreas de IA e Web3. | [Link](https://benture.io) |
 
 ## 🔧 Ferramentas de desenvolvimento.
 
