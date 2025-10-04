@@ -347,6 +347,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | NPM HTTP-Server | Rode um servidor local com um pacote npm. | [Link](https://www.npmjs.com/package/http-server) |
 | Online C Compiler | Ferramenta para compilar C online. | [Link](https://www.onlinegdb.com/online_c_compiler) |
 | Patterns.dev | Design patterns para projetos web modernos. | [Link](https://www.patterns.dev/) |
+| Pythonium | Caixa de ferramentas dedicada ao Python: verificador de código, testador de expressões regulares, API mock, gerador de dados e muito mais. | [Link](https://pythonium.net/) |
 | React Dev Tools | Ferramenta para debug do ReactJS. | [Link](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) |
 | React Hook Form | Valide seus formulários de projetos que utilizam React ou React Native. | [Link](https://react-hook-form.com/) |
 | Refactoring Guru | Padrões de projetos "Design patterns". | [Link](https://refactoring.guru/pt-br/design-patterns) |
