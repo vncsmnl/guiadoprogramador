@@ -992,6 +992,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Best Hashtags | Descubra novas hashtags. | [Link](https://best-hashtags.com/) |
 | BossaBox | Rede de desenvolvedores, designers e gerentes. | [Link](https://bossabox.com/) |
 | Casa dos Dados | Encontre, visualize e identifique empresas através de dados cadastrais. | [Link](https://casadosdados.com.br/) |
+| CNPJ Go! | Consulta gratuita de CNPJ com dados de 60M+ empresas da Receita Federal e enriquecimento de leads por IA. | [Link](https://cnpjgo.com.br/) |
 | CodeInterview | Realize entrevistas de emprego com codificação ao vivo. | [Link](https://codeinterview.io/) |
 | Exploding Topics | Descubra tópicos explosivos. | [Link](https://explodingtopics.com/) |
 | Glimpse | Descubra tendências antes que elas sejam tendências. | [Link](https://meetglimpse.com/) |
