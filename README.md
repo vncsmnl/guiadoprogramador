@@ -296,6 +296,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | CMDER | Linha de comando simples, consegue rodar comandos bash e Shell, alternativa ao Hyper. | [Link](https://cmder.net/) |
 | CodePen | Rede social de desenvolvedores front-end. | [Link](https://codepen.io/) |
 | CodeSandbox | Caixa de área para desenvolvedores web. | [Link](https://codesandbox.io/) |
+| Código ao Ponto | Ferramentas gratuitas e sem cadastro para devs e QAs: geradores e validadores de CPF, CNPJ, RG, CNH, PIS e placa Mercosul, JWT, hash, Base64, UUID e mais. | [Link](https://codigoaoponto.com/ferramentas) |
 | Connection Strings | Site com strings de conexão para diversas plataformas. | [Link](https://www.connectionstrings.com/) |
 | Creately | Crie e altere lindos diagramas em tempo real com a sua equipe. | [Link](https://creately.com/) |
 | CSS Formatter | Retire a minificação e formate o código CSS. | [Link](https://www.cleancss.com/css-beautify/) |
