@@ -287,6 +287,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | 4Devs | Ferramentas online gratuitas, geradores de cpf, conta bancária, pessoas, CNPJ, CEP, RG, validadores, encoders e muitas outras. | [Link](https://www.4devs.com.br/) |
 | ❤️ Any API | Diretório gratuito com APIs públicas. | [Link](https://any-api.com/) |
 | Autoprefixer CSS | Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos. | [Link](http://autoprefixer.github.io/) |
+| BestJSON JSON Diff | Compare estruturas JSON localmente no navegador e veja alterações por caminho, sem cadastro. | [Link](https://bestjson.com/json-diff) |
 | Browser diet | Guia de performance para desenvolvimento web. | [Link](https://browserdiet.com/pt/) |
 | Bundlephobia | Descubra o custo de adicionar um pacote npm ao seu pacote. | [Link](https://bundlephobia.com) |
 | Can I email... | Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail. | [Link](https://www.caniemail.com/) |
