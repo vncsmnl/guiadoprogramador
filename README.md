@@ -295,6 +295,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Carbon | Crie Snippets de código clean e bonitos. | [Link](https://carbon.now.sh/) |
 | ❤️ CloudFlare | CDN grátis. | [Link](https://www.cloudflare.com/pt-br/) |
 | CMDER | Linha de comando simples, consegue rodar comandos bash e Shell, alternativa ao Hyper. | [Link](https://cmder.net/) |
+| Coddy | Compilador de JavaScript online, sem instalação e sem cadastro. | [Link](https://coddy.tech/playground/pt/javascript) |
 | CodePen | Rede social de desenvolvedores front-end. | [Link](https://codepen.io/) |
 | CodeSandbox | Caixa de área para desenvolvedores web. | [Link](https://codesandbox.io/) |
 | Código ao Ponto | Ferramentas gratuitas e sem cadastro para devs e QAs: geradores e validadores de CPF, CNPJ, RG, CNH, PIS e placa Mercosul, JWT, hash, Base64, UUID e mais. | [Link](https://codigoaoponto.com/ferramentas) |
@@ -311,7 +312,6 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Docsify | Crie docs incríveis de projetos. | [Link](https://docsify.js.org/#/) |
 | EasyForms | API open source que permite criação formulários de contato com HTML puro. | [Link](https://easyforms.vercel.app/) |
 | Editor.md | Editor Markdown online e open source. | [Link](https://pandao.github.io/editor.md/en.html) |
-| ES6console | Compilador de JS para ECMAScript. | [Link](https://es6console.com/) |
 | Explain Shell | Escreva uma linha de comando para ver o texto de ajuda que corresponde a cada argumento. | [Link](https://explainshell.com/) |
 | ❤️ Firebase | Desenvolva aplicativos mobile e web incríveis este serviço da Google. | [Link](https://firebase.google.com/?hl=pt-BR) |
 | Firefox Developer Edition | Navegador web para desenvolvedores web. | [Link](https://www.mozilla.org/pt-BR/firefox/developer/) |
