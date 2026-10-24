@@ -657,6 +657,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Award Space | Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios | [Link](https://www.awardspace.com/) |
 | BlueHost | Empresa americana de hospedagem de sites | [Link](https://www.bluehost.com/) |
 | Byet | Hospedagem Gratuita e Serviços de Hospedagem Premium. | [Link](https://byet.host/) |
+| deed.page | Hospedagem estática gratuita: publica um arquivo HTML ou uma pasta em um link permanente com um único comando curl, sem cadastro, e funciona com agentes de IA | [Link](https://deed.page/) |
 | DigitalOcean | Aluguel de servidores dedicados e compartilhados | [Link](https://www.digitalocean.com/) |
 | DreamHost | Hospedagem de sites de alta disponibilidade | [Link](https://www.dreamhost.com/) |
 | Embratel | Hospedagem de sites nacional | [Link](https://www.embratel.com.br/cloud/hospedagem-de-sites) |
