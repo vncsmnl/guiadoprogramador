@@ -682,6 +682,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
+| APPLORE | Biblioteca com mais de 18.000 ícones reais de apps da App Store e Google Play, com todas as versões anteriores arquivadas. | [Link](https://applore.app/) |
 | ❤️ Awwwards | Os prêmios de design, criatividade e inovação na internet. | [Link](https://www.awwwards.com) |
 | Behance | O Behance é uma plataforma de mídia social de propriedade da Adobe cujo foco principal é mostrar e descobrir trabalhos criativos. | [Link](https://www.behance.net/) |
 | Best Folios | Inspire sua carreira de designer. | [Link](https://www.bestfolios.com/home) |
