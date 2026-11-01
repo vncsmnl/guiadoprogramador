@@ -690,6 +690,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | CSS Nectar | Uma vitrine de design de sites CSS para web designers e desenvolvedores. | [Link](https://cssnectar.com/) |
 | Deviant Art | DeviantArt é onde a arte e a comunidade prosperam. Explore mais de 350 milhões de peças de arte enquanto se conecta a outros artistas e entusiastas da arte. | [Link](https://www.deviantart.com/) |
 | Dribbble | Explore os principais portfólios de design do mundo. | [Link](https://dribbble.com/) |
+| DebutPin | Plataforma gratuita de lançamento para makers indie: publique seu produto, receba votos e colecione pins permanentes. | [Link](https://debutpin.com/) |
 | Httpster | Httpster é um recurso de inspiração que apresenta sites totalmente incríveis feitos por pessoas de todo o mundo. | [Link](https://httpster.net/2021/jun/) |
 | Land Book | Coletamos sites incríveis para ajudar os criativos a encontrar inspiração e motivação para fazer coisas radicais. | [Link](https://land-book.com/) |
 | Lapa | Os melhores exemplos de página de destino. Aprenda design, baixe livros gratuitos e kits de interface do usuário. | [Link](https://www.lapa.ninja/) |
