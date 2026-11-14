@@ -1047,6 +1047,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Web Developer | Adiciona um botão de barra de ferramentas com várias ferramentas de desenvolvedor web. | [Link](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) |
 | WhatFont? | A maneira mais fácil de identificar fontes em páginas da web. | [Link](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) |
 | Window Resizer | Redimensione a janela do navegador para emular várias resoluções de tela. | [Link](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR) |
+| YouTube Transcript: AI Summary & Chat | Abre a transcrição com marcação de tempo ao lado de qualquer vídeo do YouTube: busque uma palavra, clique na frase para pular até o trecho, copie ou baixe o texto e gere um resumo com IA. Créditos de IA gratuitos disponíveis. | [Link](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd) |
 
 
 ## 🧩 Extensões para o VSCode.
