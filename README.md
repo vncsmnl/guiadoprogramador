@@ -656,6 +656,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ❤️ Amazon Web Services | Serviço de aluguel de servidores e outros serviços | [Link](https://aws.amazon.com/pt/) |
 | Award Space | Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios | [Link](https://www.awardspace.com/) |
 | BlueHost | Empresa americana de hospedagem de sites | [Link](https://www.bluehost.com/) |
+| Buddy | Hospedagem de aplicações e sites com pipelines de CI/CD, repositórios Git e domínios | [Link](https://buddy.works) |
 | Byet | Hospedagem Gratuita e Serviços de Hospedagem Premium. | [Link](https://byet.host/) |
 | deed.page | Hospedagem estática gratuita: publica um arquivo HTML ou uma pasta em um link permanente com um único comando curl, sem cadastro, e funciona com agentes de IA | [Link](https://deed.page/) |
 | DigitalOcean | Aluguel de servidores dedicados e compartilhados | [Link](https://www.digitalocean.com/) |
