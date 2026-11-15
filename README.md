@@ -440,6 +440,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Nome         | Descrição     | Site |
 |--------------|-----------|------------|
 | Adobe XD | Software de design para projetos. | [Link](https://www.adobe.com/br/products/xd.html) |
+| AppScreen | Editor gratuito no navegador para criar screenshots da App Store e do Google Play. | [Link](https://appscreen.pro/) |
 | Bootstrap | Framework CSS. | [Link](https://www.getbootstrap.com/) |
 | Brusheezy | Pincéis e PSDs gratuitos do Photoshop! | [Link](https://www.brusheezy.com/) |
 | BuildBootstrap | Crie layout responsivo para o framework Bootstrap na versão 3 e 4. | [Link](https://buildbootstrap.com/) |
