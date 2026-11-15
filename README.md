@@ -131,6 +131,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | Bard | Descubra mais sobre o Bard, uma ferramenta colaborativa de IA desenvolvida pelo Google para ajudar a dar vida às suas ideias. | [Link](https://bard.google.com/chat) |
 | ❤️ ChatGPT | O ChatGPT é um protótipo de um chatbot com inteligência artificial desenvolvido pela OpenAI especializado em diálogo. | [Link](https://chat.openai.com/chat) |
 | Copilot | O Microsoft Copilot aproveita o poder da IA para aumentar a produtividade, desbloquear a criatividade e ajuda você a entender melhor as informações com uma experiência de chat simples. | [Link](https://copilot.microsoft.com/?wlexpsignin=1) |
+| HumanPen | Reescrita de documentos com IA; serviço pago por créditos, com 100 créditos grátis ao se cadastrar. | [Link](https://humanpen.net/) |
 | Kits AI |  Crie suas próprias vozes de IA ou transforme sua voz usando nossa crescente biblioteca de vozes de artistas de IA livres de royalties e oficialmente licenciadas. | [Link](https://app.kits.ai/community-voices) |
 | Phind | Mecanismo de busca de IA desenvolvido para desenvolvedores. | [Link](https://www.phind.com/search?home=true) |
 | ❤️ Theres an ai for that | Encontre e compare os melhores aplicativos e serviços de IA para diversos fins, como compras, escrita, jogos, marketing e muito mais. | [Link](https://theresanaiforthat.com/) |
