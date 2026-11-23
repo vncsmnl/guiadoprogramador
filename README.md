@@ -612,6 +612,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | lumpysofts | Google index search | [Link](https://lumpysoft.com/) |
 | Minimamente | Animações CSS3 com efeitos especiais. | [Link](https://www.minimamente.com/project/magic/) |
 | OmniCalculator | Sua vida em 2840 calculadoras gratuitas | [Link](https://www.omnicalculator.com/) |
+| Open Source Radar | Issues para iniciantes (good first issue) sem ninguém atribuído e sem PR aberto, filtráveis por linguagem e atualizadas duas vezes por dia. Tem um guia de contribuição em português. | [Link](https://tanbirramim.github.io/open-source-radar/) |
 | ReadMe | Editor simples permite que você adicione e personalize rapidamente todas as seções necessárias para o leia-me do seu projeto. | [Link](https://readme.so/) |
 | Rive | Ferramenta colaborativa de animação para apps, jogos e sites. | [Link](https://rive.app) |
 | SnapCode | Transforme seu código em belas imagens. Escolha entre uma variedade de cores de sintaxe, oculte ou mostre o plano de fundo e alterne entre uma janela escura e clara. | [Link](https://ray.so/) |
