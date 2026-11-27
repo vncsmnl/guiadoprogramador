@@ -616,6 +616,7 @@ Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou s
 | ReadMe | Editor simples permite que você adicione e personalize rapidamente todas as seções necessárias para o leia-me do seu projeto. | [Link](https://readme.so/) |
 | Rive | Ferramenta colaborativa de animação para apps, jogos e sites. | [Link](https://rive.app) |
 | SnapCode | Transforme seu código em belas imagens. Escolha entre uma variedade de cores de sintaxe, oculte ou mostre o plano de fundo e alterne entre uma janela escura e clara. | [Link](https://ray.so/) |
+| Tinymast | Ferramentas online de PDF e imagem; arquivos enviados e resultados são excluídos em até 24 horas por padrão. | [Link](https://tinymast.com/) |
 | Unminify | Ferramenta desofuscação de códigos. | [Link](https://unminify.com/) |
 | Up for Grabs | Esta é uma lista de projetos que selecionaram tarefas especificamente para novos colaboradores. | [Link](http://up-for-grabs.net/) |
 | Web Developer Roadmap | Trilha de caminhos para seguir para se tornar um desenvolvedor WEB. | [Link](https://github.com/kamranahmedse/developer-roadmap) |
